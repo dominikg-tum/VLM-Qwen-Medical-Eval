@@ -192,3 +192,7 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# User-specific stuff
+code/user.env
+code/VLM-Seminar25-Dataset
