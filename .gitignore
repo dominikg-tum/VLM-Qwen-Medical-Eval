@@ -194,5 +194,5 @@ cython_debug/
 .cursorindexingignore
 
 # User-specific stuff
-code/user.env
+config/user.env
 code/VLM-Seminar25-Dataset
