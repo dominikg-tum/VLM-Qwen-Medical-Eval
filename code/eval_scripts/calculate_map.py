@@ -55,7 +55,7 @@ def compute_map_supervision(pred_boxes, pred_classes, true_boxes, true_classes):
 
     return result
 
-def draw_boxes(pred_boxes, true_boxes, image=None, image_size=(1024, 1024)):
+def draw_boxes(pred_boxes, true_boxes, image=None, image_size=(1024, 1024), save_path=None):
     """
     Draw predicted and ground truth boxes on the given image or a blank canvas.
 
@@ -96,6 +96,8 @@ def draw_boxes(pred_boxes, true_boxes, image=None, image_size=(1024, 1024)):
     ax.set_ylim(h, 0)  # Flip y-axis (top-left origin)
     ax.axis('off')
     plt.tight_layout()
+    if save_path:
+        plt.savefig(save_path)
     plt.show()
 
 if __name__ == "__main__":

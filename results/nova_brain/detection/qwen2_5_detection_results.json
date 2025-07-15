@@ -1,0 +1,462 @@
+[
+  {
+    "case_id": "case0061",
+    "image": "case0061_001.png",
+    "prediction": "[300,185,690,790]"
+  },
+  {
+    "case_id": "case0061",
+    "image": "case0061_002.png",
+    "prediction": "[340,85,760,790]"
+  },
+  {
+    "case_id": "case0246",
+    "image": "case0246_001.png",
+    "prediction": "[300,645,700,890]"
+  },
+  {
+    "case_id": "case0115",
+    "image": "case0115_007.png",
+    "prediction": "[350,476,390,515]"
+  },
+  {
+    "case_id": "case0115",
+    "image": "case0115_001.png",
+    "prediction": "[230,350,490,580]"
+  },
+  {
+    "case_id": "case0115",
+    "image": "case0115_002.png",
+    "prediction": "[350,478,390,520]"
+  },
+  {
+    "case_id": "case0115",
+    "image": "case0115_003.png",
+    "prediction": "[500,340,600,470]"
+  },
+  {
+    "case_id": "case0115",
+    "image": "case0115_004.png",
+    "prediction": "[345,380,674,849]"
+  },
+  {
+    "case_id": "case0115",
+    "image": "case0115_005.png",
+    "prediction": "[490,560,538,700]"
+  },
+  {
+    "case_id": "case0115",
+    "image": "case0115_006.png",
+    "prediction": "[340,365,370,395]"
+  },
+  {
+    "case_id": "case0088",
+    "image": "case0088_004.png",
+    "prediction": "[180,245,290,430]"
+  },
+  {
+    "case_id": "case0088",
+    "image": "case0088_001.png",
+    "prediction": "[180,170,350,400]"
+  },
+  {
+    "case_id": "case0088",
+    "image": "case0088_002.png",
+    "prediction": "[495,330,548,385]"
+  },
+  {
+    "case_id": "case0088",
+    "image": "case0088_003.png",
+    "prediction": "[530,248,570,296]"
+  },
+  {
+    "case_id": "case0034",
+    "image": "case0034_003.png",
+    "prediction": "[580,340,790,560]"
+  },
+  {
+    "case_id": "case0034",
+    "image": "case0034_004.png",
+    "prediction": "[400,635,670,830]"
+  },
+  {
+    "case_id": "case0034",
+    "image": "case0034_001.png",
+    "prediction": "[430,615,675,890]"
+  },
+  {
+    "case_id": "case0034",
+    "image": "case0034_002.png",
+    "prediction": "[405,573,698,865]"
+  },
+  {
+    "case_id": "case0034",
+    "image": "case0034_005.png",
+    "prediction": "[300,185,640,470]"
+  },
+  {
+    "case_id": "case0005",
+    "image": "case0005_003.png",
+    "prediction": "[490,365,510,385]"
+  },
+  {
+    "case_id": "case0005",
+    "image": "case0005_001.png",
+    "prediction": "[340,615,430,790]"
+  },
+  {
+    "case_id": "case0005",
+    "image": "case0005_002.png",
+    "prediction": "[200,350,350,540]"
+  },
+  {
+    "case_id": "case0080",
+    "image": "case0080_006.png",
+    "prediction": "[430,516,528,637]"
+  },
+  {
+    "case_id": "case0080",
+    "image": "case0080_002.png",
+    "prediction": "[350,428,460,555] [585,430,679,555]"
+  },
+  {
+    "case_id": "case0080",
+    "image": "case0080_003.png",
+    "prediction": "[680,250,790,340]"
+  },
+  {
+    "case_id": "case0080",
+    "image": "case0080_004.png",
+    "prediction": "[350,648,420,735]"
+  },
+  {
+    "case_id": "case0080",
+    "image": "case0080_005.png",
+    "prediction": "[430,275,620,480]"
+  },
+  {
+    "case_id": "case0080",
+    "image": "case0080_001.png",
+    "prediction": "[360,645,420,740]"
+  },
+  {
+    "case_id": "case0150",
+    "image": "case0150_001.png",
+    "prediction": "[390,405,480,520]"
+  },
+  {
+    "case_id": "case0150",
+    "image": "case0150_002.png",
+    "prediction": "[740,358,780,490]"
+  },
+  {
+    "case_id": "case0150",
+    "image": "case0150_003.png",
+    "prediction": "[490,580,535,620]"
+  },
+  {
+    "case_id": "case0150",
+    "image": "case0150_004.png",
+    "prediction": "[600,350,700,480]"
+  },
+  {
+    "case_id": "case0127",
+    "image": "case0127_001.png",
+    "prediction": "[485,170,530,260]"
+  },
+  {
+    "case_id": "case0127",
+    "image": "case0127_002.png",
+    "prediction": "[630,375,700,420]"
+  },
+  {
+    "case_id": "case0127",
+    "image": "case0127_003.png",
+    "prediction": "[470,508,563,595]"
+  },
+  {
+    "case_id": "case0275",
+    "image": "case0275_001.png",
+    "prediction": "[385,300,674,770]"
+  },
+  {
+    "case_id": "case0275",
+    "image": "case0275_002.png",
+    "prediction": "[]"
+  },
+  {
+    "case_id": "case0274",
+    "image": "case0274_001.png",
+    "prediction": "[360,685,420,745]"
+  },
+  {
+    "case_id": "case0274",
+    "image": "case0274_002.png",
+    "prediction": "[200,265,710,780]"
+  },
+  {
+    "case_id": "case0043",
+    "image": "case0043_001.png",
+    "prediction": "[290,685,430,795]"
+  },
+  {
+    "case_id": "case0043",
+    "image": "case0043_002.png",
+    "prediction": "[300,395,420,580]"
+  },
+  {
+    "case_id": "case0043",
+    "image": "case0043_005.png",
+    "prediction": "[450,638,570,790]"
+  },
+  {
+    "case_id": "case0043",
+    "image": "case0043_003.png",
+    "prediction": "[70, 345, 960, 800]"
+  },
+  {
+    "case_id": "case0043",
+    "image": "case0043_004.png",
+    "prediction": "[500,640,910,830]"
+  },
+  {
+    "case_id": "case0212",
+    "image": "case0212_001.png",
+    "prediction": "[340,475,390,525]"
+  },
+  {
+    "case_id": "case0212",
+    "image": "case0212_002.png",
+    "prediction": "[400,513,618,798]"
+  },
+  {
+    "case_id": "case0212",
+    "image": "case0212_003.png",
+    "prediction": "[480,395,560,637]"
+  },
+  {
+    "case_id": "case0212",
+    "image": "case0212_004.png",
+    "prediction": "[600,735,680,800]"
+  },
+  {
+    "case_id": "case0113",
+    "image": "case0113_001.png",
+    "prediction": "[240,395,320,475]"
+  },
+  {
+    "case_id": "case0113",
+    "image": "case0113_002.png",
+    "prediction": "[230,400,290,450]"
+  },
+  {
+    "case_id": "case0113",
+    "image": "case0113_003.png",
+    "prediction": "[580,706,630,755]"
+  },
+  {
+    "case_id": "case0106",
+    "image": "case0106_003.png",
+    "prediction": "[450,560,630,700]"
+  },
+  {
+    "case_id": "case0106",
+    "image": "case0106_004.png",
+    "prediction": "[480,560,590,670]"
+  },
+  {
+    "case_id": "case0106",
+    "image": "case0106_001.png",
+    "prediction": "[480,530,600,670]"
+  },
+  {
+    "case_id": "case0106",
+    "image": "case0106_002.png",
+    "prediction": "[475,516,593,658]"
+  },
+  {
+    "case_id": "case0208",
+    "image": "case0208_001.png",
+    "prediction": "[400,630,580,740]"
+  },
+  {
+    "case_id": "case0070",
+    "image": "case0070_001.png",
+    "prediction": "[450,487,630,690]"
+  },
+  {
+    "case_id": "case0070",
+    "image": "case0070_002.png",
+    "prediction": "[480,615,570,730]"
+  },
+  {
+    "case_id": "case0070",
+    "image": "case0070_003.png",
+    "prediction": "[600,345,780,540]"
+  },
+  {
+    "case_id": "case0070",
+    "image": "case0070_011.png",
+    "prediction": "[480,735,560,840]"
+  },
+  {
+    "case_id": "case0070",
+    "image": "case0070_008.png",
+    "prediction": "[600,598,734,770]"
+  },
+  {
+    "case_id": "case0070",
+    "image": "case0070_009.png",
+    "prediction": "[400,500,630,800]"
+  },
+  {
+    "case_id": "case0070",
+    "image": "case0070_010.png",
+    "prediction": "[]"
+  },
+  {
+    "case_id": "case0070",
+    "image": "case0070_004.png",
+    "prediction": "[470,580,530,690]"
+  },
+  {
+    "case_id": "case0070",
+    "image": "case0070_005.png",
+    "prediction": "[450,398,500,460]"
+  },
+  {
+    "case_id": "case0070",
+    "image": "case0070_006.png",
+    "prediction": "[]"
+  },
+  {
+    "case_id": "case0070",
+    "image": "case0070_007.png",
+    "prediction": "[470,650,530,710]"
+  },
+  {
+    "case_id": "case0012",
+    "image": "case0012_003.png",
+    "prediction": "[480,350,760,790]"
+  },
+  {
+    "case_id": "case0012",
+    "image": "case0012_004.png",
+    "prediction": "[]"
+  },
+  {
+    "case_id": "case0012",
+    "image": "case0012_005.png",
+    "prediction": "[480,395,720,730]"
+  },
+  {
+    "case_id": "case0012",
+    "image": "case0012_006.png",
+    "prediction": "[500,180,730,460]"
+  },
+  {
+    "case_id": "case0012",
+    "image": "case0012_001.png",
+    "prediction": "[500,100,680,300]"
+  },
+  {
+    "case_id": "case0012",
+    "image": "case0012_002.png",
+    "prediction": "[530,420,620,670]"
+  },
+  {
+    "case_id": "case0200",
+    "image": "case0200_001.png",
+    "prediction": "[]"
+  },
+  {
+    "case_id": "case0247",
+    "image": "case0247_001.png",
+    "prediction": "[300,578,340,630]"
+  },
+  {
+    "case_id": "case0255",
+    "image": "case0255_001.png",
+    "prediction": "[450,340,680,520]"
+  },
+  {
+    "case_id": "case0255",
+    "image": "case0255_002.png",
+    "prediction": "[490,365,708,520]"
+  },
+  {
+    "case_id": "case0255",
+    "image": "case0255_003.png",
+    "prediction": "[830,145,930,260]"
+  },
+  {
+    "case_id": "case0135",
+    "image": "case0135_001.png",
+    "prediction": "[480,630,570,720]"
+  },
+  {
+    "case_id": "case0135",
+    "image": "case0135_005.png",
+    "prediction": "[450,618,570,730]"
+  },
+  {
+    "case_id": "case0135",
+    "image": "case0135_006.png",
+    "prediction": "[430,365,620,580]"
+  },
+  {
+    "case_id": "case0135",
+    "image": "case0135_002.png",
+    "prediction": "[450, 630, 580, 790]"
+  },
+  {
+    "case_id": "case0135",
+    "image": "case0135_003.png",
+    "prediction": "[400,350,560,480]"
+  },
+  {
+    "case_id": "case0135",
+    "image": "case0135_004.png",
+    "prediction": "[450,623,550,683]"
+  },
+  {
+    "case_id": "case0018",
+    "image": "case0018_003.png",
+    "prediction": "[480,450,530,510]"
+  },
+  {
+    "case_id": "case0018",
+    "image": "case0018_001.png",
+    "prediction": "[360,350,498,530]"
+  },
+  {
+    "case_id": "case0018",
+    "image": "case0018_002.png",
+    "prediction": "[700,350,890,640]"
+  },
+  {
+    "case_id": "case0054",
+    "image": "case0054_001.png",
+    "prediction": "[600,450,700,550]"
+  },
+  {
+    "case_id": "case0277",
+    "image": "case0277_001.png",
+    "prediction": "[340, 56, 550, 270]"
+  },
+  {
+    "case_id": "case0277",
+    "image": "case0277_002.png",
+    "prediction": "[430,538,546,679]"
+  },
+  {
+    "case_id": "case0277",
+    "image": "case0277_003.png",
+    "prediction": "[300,300,605,540]"
+  },
+  {
+    "case_id": "case0277",
+    "image": "case0277_004.png",
+    "prediction": "[300,450,700,860]"
+  }
+]
