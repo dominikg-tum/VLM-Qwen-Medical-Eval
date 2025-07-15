@@ -15,9 +15,10 @@ from nltk.tokenize import word_tokenize
 # ]
 
 
-def evaluate_bleu(references, candidates):
+def evaluate_bleu(references, candidates, meta=None):
     """
     Returns a list of dicts with BLEU-1/2/3/4 for each pair, suitable for saving as JSON or converting to DataFrame.
+    Optionally includes meta info (e.g., case_id, image) if provided as a list of dicts.
     """
     results = []
     for i, (ref, cand) in enumerate(zip(references, candidates)):
@@ -30,7 +31,7 @@ def evaluate_bleu(references, candidates):
         bleu3 = sentence_bleu([ref_tokens], cand_tokens, weights=(0.33, 0.33, 0.33, 0))
         bleu4 = sentence_bleu([ref_tokens], cand_tokens, weights=(0.25, 0.25, 0.25, 0.25))
         
-        results.append({
+        entry = {
             "index": i,
             "reference": ref,
             "candidate": cand,
@@ -38,7 +39,13 @@ def evaluate_bleu(references, candidates):
             "bleu2": bleu2,
             "bleu3": bleu3,
             "bleu4": bleu4
-        })
+        }
+        if meta is not None and i < len(meta):
+            # Add meta fields such as case_id and image if present
+            for k in ["case_id", "image"]:
+                if k in meta[i]:
+                    entry[k] = meta[i][k]
+        results.append(entry)
     return results
 
 # Example: Convert results to DataFrame and JSON
