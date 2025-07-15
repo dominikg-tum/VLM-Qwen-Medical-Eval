@@ -55,9 +55,28 @@ def compute_map_supervision(pred_boxes, pred_classes, true_boxes, true_classes):
 
     return result
 
-def draw_boxes(pred_boxes, true_boxes, image_size=(1024, 1024)):
-    fig, ax = plt.subplots(1, figsize=(8, 8))
-    ax.imshow(np.ones((image_size[1], image_size[0], 3), dtype=np.uint8) * 240)
+def draw_boxes(pred_boxes, true_boxes, image=None, image_size=(1024, 1024)):
+    """
+    Draw predicted and ground truth boxes on the given image or a blank canvas.
+
+    Args:
+        pred_boxes: list of predicted boxes [[x1, y1, x2, y2], ...]
+        true_boxes: list of ground truth boxes [[x1, y1, x2, y2], ...]
+        image: np.ndarray or str (image path). If None, uses blank canvas.
+        image_size: tuple, used only if image is None.
+    """
+    if image is not None:
+        if isinstance(image, str):
+            img = plt.imread(image)
+        else:
+            img = image
+        fig, ax = plt.subplots(1, figsize=(8, 8))
+        ax.imshow(img)
+        h, w = img.shape[:2]
+    else:
+        fig, ax = plt.subplots(1, figsize=(8, 8))
+        ax.imshow(np.ones((image_size[1], image_size[0], 3), dtype=np.uint8) * 240)
+        w, h = image_size
 
     # Draw predicted boxes in red
     for box in pred_boxes:
@@ -73,8 +92,8 @@ def draw_boxes(pred_boxes, true_boxes, image_size=(1024, 1024)):
                                  linewidth=2, edgecolor='green', facecolor='none')
         ax.add_patch(rect)
 
-    ax.set_xlim(0, image_size[0])
-    ax.set_ylim(image_size[1], 0)  # Flip y-axis (top-left origin)
+    ax.set_xlim(0, w)
+    ax.set_ylim(h, 0)  # Flip y-axis (top-left origin)
     ax.axis('off')
     plt.tight_layout()
     plt.show()
@@ -92,4 +111,5 @@ if __name__ == "__main__":
     true_classes = [0, 0]
 
     result = compute_map_supervision(pred_boxes, pred_classes, true_boxes, true_classes)
-    draw_boxes(pred_boxes, true_boxes, image_size=(1024, 1024))
+    # Example usage: draw_boxes(pred_boxes, true_boxes, image="path/to/image.png")
+    draw_boxes(pred_boxes, true_boxes, image=None, image_size=(1024, 1024))
