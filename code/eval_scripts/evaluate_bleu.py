@@ -16,7 +16,10 @@ from nltk.tokenize import word_tokenize
 
 
 def evaluate_bleu(references, candidates):
-    # Calculate BLEU-1,2,3,4 scores for each pair
+    """
+    Returns a list of dicts with BLEU-1/2/3/4 for each pair, suitable for saving as JSON or converting to DataFrame.
+    """
+    results = []
     for i, (ref, cand) in enumerate(zip(references, candidates)):
         ref_tokens = word_tokenize(ref)
         cand_tokens = word_tokenize(cand)
@@ -27,10 +30,24 @@ def evaluate_bleu(references, candidates):
         bleu3 = sentence_bleu([ref_tokens], cand_tokens, weights=(0.33, 0.33, 0.33, 0))
         bleu4 = sentence_bleu([ref_tokens], cand_tokens, weights=(0.25, 0.25, 0.25, 0.25))
         
-        print(f"\nExample {i+1}:")
-        print(f"Reference: {ref}")
-        print(f"Candidate: {cand}")
-        print(f"BLEU-1: {bleu1:.4f}")
-        print(f"BLEU-2: {bleu2:.4f}")
-        print(f"BLEU-3: {bleu3:.4f}")
-        print(f"BLEU-4: {bleu4:.4f}")
+        results.append({
+            "index": i,
+            "reference": ref,
+            "candidate": cand,
+            "bleu1": bleu1,
+            "bleu2": bleu2,
+            "bleu3": bleu3,
+            "bleu4": bleu4
+        })
+    return results
+
+# Example: Convert results to DataFrame and JSON
+# import pandas as pd, json
+# results = evaluate_bleu(references, candidates)
+# df = pd.DataFrame(results)
+# df.to_json("bleu_results.json", orient="records", indent=2)
+# df2 = pd.read_json("bleu_results.json")
+# print(df2.head())
+
+
+
