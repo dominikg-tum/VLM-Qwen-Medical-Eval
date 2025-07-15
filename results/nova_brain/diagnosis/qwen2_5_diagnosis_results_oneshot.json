@@ -1,0 +1,344 @@
+[
+  {
+    "case_id": "case0061",
+    "prediction": "Colloid cyst",
+    "diagdifferential_diagnosisnosis": "Central neurocytoma; Central neurocytoma; Subependymoma; Ependymoma; Subependymal giant cell astrocytoma",
+    "final_diagnosis": "Central neurocytoma",
+    "prompt": "Based on the clinical history: A 30-year-old patient presented to the emergency department with 3 days history of headache, nausea and vomiting. Memory loss and disorientation in time and space were reported, without other neurological manifestations. and image findings: case0061_001.png: Axial contrast-enhanced T1 3D sequence shows an isointense mass and slight enhancement. case0061_002.png: Axial T2 gradient image shows a small hypointense area within the intraventricular mass, compatible with calcification., provide your diagnosis for the disease. Output only the final diagnosis without any additional text or explanation, e.g: 'Tumefactive demyelination.'",
+    "clinical_history": "A 30-year-old patient presented to the emergency department with 3 days history of headache, nausea and vomiting. Memory loss and disorientation in time and space were reported, without other neurological manifestations.",
+    "findings": [
+      "case0061_001.png: Axial contrast-enhanced T1 3D sequence shows an isointense mass and slight enhancement.",
+      "case0061_002.png: Axial T2 gradient image shows a small hypointense area within the intraventricular mass, compatible with calcification."
+    ]
+  },
+  {
+    "case_id": "case0246",
+    "prediction": "Wilson's disease.",
+    "diagdifferential_diagnosisnosis": "Hypoparathyroidism; Toxoplasmosis; Mitochondrial myopathy; Cokayne syndrome; Kenny Caffey syndrome; Fahr\u2019s syndrome",
+    "final_diagnosis": "Fahr\u2019s syndrome",
+    "prompt": "Based on the clinical history: A 27-year-old male had an incidental finding of intracranial calcifications on a CT head scan. The scan was performed to evaluate an enlarged external occipital protuberance discovered after shaving his head . According to the family, over the past two years, the patient has experienced forgetfulness with a reduced attention span. His academic performance at the university has progressively declined during this period, especially in the last few months, during which he has become more silent and less communicative . He reported no sensory-motor disturbances, cerebellar symptoms, seizures, or extrapyramidal features. Consequently, both CT and MRI scans of the head were requested. and image findings: case0246_001.png: T1 sequence showing high signal in basal ganglia bilaterally, provide your diagnosis for the disease. Output only the final diagnosis without any additional text or explanation, e.g: 'Tumefactive demyelination.'",
+    "clinical_history": "A 27-year-old male had an incidental finding of intracranial calcifications on a CT head scan. The scan was performed to evaluate an enlarged external occipital protuberance discovered after shaving his head . According to the family, over the past two years, the patient has experienced forgetfulness with a reduced attention span. His academic performance at the university has progressively declined during this period, especially in the last few months, during which he has become more silent and less communicative . He reported no sensory-motor disturbances, cerebellar symptoms, seizures, or extrapyramidal features. Consequently, both CT and MRI scans of the head were requested.",
+    "findings": [
+      "case0246_001.png: T1 sequence showing high signal in basal ganglia bilaterally"
+    ]
+  },
+  {
+    "case_id": "case0115",
+    "prediction": "Brain abscess and ventriculitis due to Campylobacter rectus.",
+    "diagdifferential_diagnosisnosis": "Pyogenic brain abscess with intraventricular rupture; Metastases; Glioblastoma multiforme; Tumour radionecrosis; Multiple sclerosis; Fungal, parasitic or mycobacterial abscess",
+    "final_diagnosis": "Pyogenic brain abscess with intraventricular rupture",
+    "prompt": "Based on the clinical history: A 49-year-old man with a history of alcohol abuse presented to the Emergency Department with fever, headache and productive cough for the past 4 days. The day before his clinical conditions were aggravated by confusion and motor slowing. No relevant previous medical history. Laboratory analysis found leukocytosis and increased c-reactive-protein. and image findings: case0115_007.png: Micronodule abscess into the right centrum semiovale characterised by hyperintensity with a hypointense ring on T2WI (Fig. 3a), hypointensity on ADC map (Fig. 3b), \u201cdual rim sign\u201d on SWI (Fig. 3c) and ring enhancement on T1 after contrast (Fig. 3d). case0115_001.png: Micronodule abscess into the right centrum semiovale characterised by hyperintensity with a hypointense ring on T2WI (Fig. 3a), hypointensity on ADC map (Fig. 3b), \u201cdual rim sign\u201d on SWI (Fig. 3c) and ring enhancement on T1 after contrast (Fig. 3d). case0115_002.png: Micronodule abscess into the right centrum semiovale characterised by hyperintensity with a hypointense ring on T2WI (Fig. 3a), hypointensity on ADC map (Fig. 3b), \u201cdual rim sign\u201d on SWI (Fig. 3c) and ring enhancement on T1 after contrast (Fig. 3d). case0115_003.png: MR. FLAIR images show a ventricular enlargement with a subependymal rim of hyperintensity corresponding to transependymal oedema. Hyperintense material is visible in the occipital horns of the lateral ventricles (Fig. 4a), in the trigones (Fig. 4b), in the body of the lateral ventricles (Fig. 4c). DWI (b=1000) images evidence restricted diffusion of material in the fourth ventricle and in the prepontine cystern (Fig. 4d) and in the lateral ventricles (Fig.4e). After contrast injection FSPGR images show subependymal enhancement of the right ventricle (Fig. 4f). case0115_004.png: MR. FLAIR images show a ventricular enlargement with a subependymal rim of hyperintensity corresponding to transependymal oedema. Hyperintense material is visible in the occipital horns of the lateral ventricles (Fig. 4a), in the trigones (Fig. 4b), in the body of the lateral ventricles (Fig. 4c). DWI (b=1000) images evidence restricted diffusion of material in the fourth ventricle and in the prepontine cystern (Fig. 4d) and in the lateral ventricles (Fig.4e). After contrast injection FSPGR images show subependymal enhancement of the right ventricle (Fig. 4f). case0115_005.png: MR examination obtained after one month of antibiotic therapy and external ventricular drainage (Campylobacter rectus was the agent isolated from the CSF). T2WI (Fig. 5a) and FSPGR image with contrast show the reduction of the abscess. Pus is absent in the ventricles as documented with DWI (b=1000) in Fig. 5c. No subependymal enhancement is appreciated after contrast injection in FSPGR (Fig. 5d). The right ventricle is partially collapsed after external ventricular drainage. case0115_006.png: MR examination obtained after one month of antibiotic therapy and external ventricular drainage (Campylobacter rectus was the agent isolated from the CSF). T2WI (Fig. 5a) and FSPGR image with contrast show the reduction of the abscess. Pus is absent in the ventricles as documented with DWI (b=1000) in Fig. 5c. No subependymal enhancement is appreciated after contrast injection in FSPGR (Fig. 5d). The right ventricle is partially collapsed after external ventricular drainage., provide your diagnosis for the disease. Output only the final diagnosis without any additional text or explanation, e.g: 'Tumefactive demyelination.'",
+    "clinical_history": "A 49-year-old man with a history of alcohol abuse presented to the Emergency Department with fever, headache and productive cough for the past 4 days. The day before his clinical conditions were aggravated by confusion and motor slowing. No relevant previous medical history. Laboratory analysis found leukocytosis and increased c-reactive-protein.",
+    "findings": [
+      "case0115_007.png: Micronodule abscess into the right centrum semiovale characterised by hyperintensity with a hypointense ring on T2WI (Fig. 3a), hypointensity on ADC map (Fig. 3b), \u201cdual rim sign\u201d on SWI (Fig. 3c) and ring enhancement on T1 after contrast (Fig. 3d).",
+      "case0115_001.png: Micronodule abscess into the right centrum semiovale characterised by hyperintensity with a hypointense ring on T2WI (Fig. 3a), hypointensity on ADC map (Fig. 3b), \u201cdual rim sign\u201d on SWI (Fig. 3c) and ring enhancement on T1 after contrast (Fig. 3d).",
+      "case0115_002.png: Micronodule abscess into the right centrum semiovale characterised by hyperintensity with a hypointense ring on T2WI (Fig. 3a), hypointensity on ADC map (Fig. 3b), \u201cdual rim sign\u201d on SWI (Fig. 3c) and ring enhancement on T1 after contrast (Fig. 3d).",
+      "case0115_003.png: MR. FLAIR images show a ventricular enlargement with a subependymal rim of hyperintensity corresponding to transependymal oedema. Hyperintense material is visible in the occipital horns of the lateral ventricles (Fig. 4a), in the trigones (Fig. 4b), in the body of the lateral ventricles (Fig. 4c). DWI (b=1000) images evidence restricted diffusion of material in the fourth ventricle and in the prepontine cystern (Fig. 4d) and in the lateral ventricles (Fig.4e). After contrast injection FSPGR images show subependymal enhancement of the right ventricle (Fig. 4f).",
+      "case0115_004.png: MR. FLAIR images show a ventricular enlargement with a subependymal rim of hyperintensity corresponding to transependymal oedema. Hyperintense material is visible in the occipital horns of the lateral ventricles (Fig. 4a), in the trigones (Fig. 4b), in the body of the lateral ventricles (Fig. 4c). DWI (b=1000) images evidence restricted diffusion of material in the fourth ventricle and in the prepontine cystern (Fig. 4d) and in the lateral ventricles (Fig.4e). After contrast injection FSPGR images show subependymal enhancement of the right ventricle (Fig. 4f).",
+      "case0115_005.png: MR examination obtained after one month of antibiotic therapy and external ventricular drainage (Campylobacter rectus was the agent isolated from the CSF). T2WI (Fig. 5a) and FSPGR image with contrast show the reduction of the abscess. Pus is absent in the ventricles as documented with DWI (b=1000) in Fig. 5c. No subependymal enhancement is appreciated after contrast injection in FSPGR (Fig. 5d). The right ventricle is partially collapsed after external ventricular drainage.",
+      "case0115_006.png: MR examination obtained after one month of antibiotic therapy and external ventricular drainage (Campylobacter rectus was the agent isolated from the CSF). T2WI (Fig. 5a) and FSPGR image with contrast show the reduction of the abscess. Pus is absent in the ventricles as documented with DWI (b=1000) in Fig. 5c. No subependymal enhancement is appreciated after contrast injection in FSPGR (Fig. 5d). The right ventricle is partially collapsed after external ventricular drainage."
+    ]
+  },
+  {
+    "case_id": "case0088",
+    "prediction": "Meningioma.",
+    "diagdifferential_diagnosisnosis": "Diffuse large B-cell lymphoma in the dura  with disseminated disease; Primary dural lymphoma (PDL); Invasive meningioma",
+    "final_diagnosis": "Diffuse large B-cell lymphoma in the dura  with disseminated disease",
+    "prompt": "Based on the clinical history: A 55-year-old male patient was admitted to the hospital due to painless progressive swelling over the right frontal area for the last one year. The overlying skin was healthy. The patient referred occasional mild headaches. He had no history of fever, weight loss or night sweats. and image findings: case0088_004.png: After paramagnetic contrast intravenous injection, the lesion demonstrates intense enhancement. case0088_001.png: Axial DWI high b-value. Difussion restriction is demonstrated. case0088_002.png: ADC map displays low ADC. case0088_003.png: The tumour shows iso-signal intensity on T2WI, provide your diagnosis for the disease. Output only the final diagnosis without any additional text or explanation, e.g: 'Tumefactive demyelination.'",
+    "clinical_history": "A 55-year-old male patient was admitted to the hospital due to painless progressive swelling over the right frontal area for the last one year. The overlying skin was healthy. The patient referred occasional mild headaches. He had no history of fever, weight loss or night sweats.",
+    "findings": [
+      "case0088_004.png: After paramagnetic contrast intravenous injection, the lesion demonstrates intense enhancement.",
+      "case0088_001.png: Axial DWI high b-value. Difussion restriction is demonstrated.",
+      "case0088_002.png: ADC map displays low ADC.",
+      "case0088_003.png: The tumour shows iso-signal intensity on T2WI"
+    ]
+  },
+  {
+    "case_id": "case0034",
+    "prediction": "Normal Pressure Hydrocephalus",
+    "diagdifferential_diagnosisnosis": "Epidermoid cyst; Arachnoid cyst; Dermoid cyst",
+    "final_diagnosis": "Epidermoid cyst",
+    "prompt": "Based on the clinical history: The patient presented with headache, generalized weakness, abnormal gait and loss of balance which gradually developed over the period of the past 2 years. There was no sensorymotor deficit. and image findings: case0034_003.png: A well-defined midline abnormal signal intensity area appearing hyperintense on T2W sequence. case0034_004.png: A large midline abnormal signal intensity area partial suppression on Flair sequence giving \"dirty CSF\" appearance. case0034_001.png: A large infratentorial midline abnormal signal intensity area appearing hypointense on T1W  sequence showing typical \"dirty CSF\" appearance. case0034_002.png: No enhancement on post-Gadolinium sequences. case0034_005.png: Dilated lateral ventricle, provide your diagnosis for the disease. Output only the final diagnosis without any additional text or explanation, e.g: 'Tumefactive demyelination.'",
+    "clinical_history": "The patient presented with headache, generalized weakness, abnormal gait and loss of balance which gradually developed over the period of the past 2 years. There was no sensorymotor deficit.",
+    "findings": [
+      "case0034_003.png: A well-defined midline abnormal signal intensity area appearing hyperintense on T2W sequence.",
+      "case0034_004.png: A large midline abnormal signal intensity area partial suppression on Flair sequence giving \"dirty CSF\" appearance.",
+      "case0034_001.png: A large infratentorial midline abnormal signal intensity area appearing hypointense on T1W  sequence showing typical \"dirty CSF\" appearance.",
+      "case0034_002.png: No enhancement on post-Gadolinium sequences.",
+      "case0034_005.png: Dilated lateral ventricle"
+    ]
+  },
+  {
+    "case_id": "case0005",
+    "prediction": "Wilson's disease.",
+    "diagdifferential_diagnosisnosis": "Basal ganglia calcifications secondary to hypoparathyroidism; Hyperparathyroidism; Familial idiopathic cerebral calcification (Fahr\u2019s syndrome); Birth anoxia; Carbon monoxide intoxication; Lead poisoning",
+    "final_diagnosis": "Basal ganglia calcifications secondary to hypoparathyroidism",
+    "prompt": "Based on the clinical history: A 15-year-old male patient with history of seizures and limb spasm presented at our hospital. and image findings: case0005_003.png: T2 weighted MR axial sections through brain revealed  bilateral symmetrical hyperintense basal ganglia case0005_001.png: T1 hyperintense signals in bilateral basal ganglia case0005_002.png: T2* image through brain showing drop out signals in bilateral basal ganglia, corresponding to calcifications seen on CT, provide your diagnosis for the disease. Output only the final diagnosis without any additional text or explanation, e.g: 'Tumefactive demyelination.'",
+    "clinical_history": "A 15-year-old male patient with history of seizures and limb spasm presented at our hospital.",
+    "findings": [
+      "case0005_003.png: T2 weighted MR axial sections through brain revealed  bilateral symmetrical hyperintense basal ganglia",
+      "case0005_001.png: T1 hyperintense signals in bilateral basal ganglia",
+      "case0005_002.png: T2* image through brain showing drop out signals in bilateral basal ganglia, corresponding to calcifications seen on CT"
+    ]
+  },
+  {
+    "case_id": "case0080",
+    "prediction": "Methylmalonic acidemia",
+    "diagdifferential_diagnosisnosis": "Methylmalonic acidaemia (MMA); Propionic acidaemia; Pyruvate dehydrogenase deficiency; Kernicterus; Carbon monoxide poisoning",
+    "final_diagnosis": "Methylmalonic acidaemia (MMA)",
+    "prompt": "Based on the clinical history: A six-year-old male child presented to the emergency room complaining about weakness, lethargy, abnormal respiration and episodes of vomiting together with dizziness one month before. The parents admitted to developmental delay, eating disorders, seizures, iron-deficiency-anaemia under treatment, and surgical excision of adenoids 2 months ago. Workup revealed elevated ammonia and methylmalonyc acid levels and low vitamin-B12 levels in the blood. and image findings: case0080_006.png: Axial T2-weighted image showing hyperintensity in bilateral cerebral penducles. case0080_002.png: Axial FLAIR image depicting hyperintensity in the basal ganglia. case0080_003.png: Axial FLAIR image showing hyperintensity in the brainstem. case0080_004.png: Axial gadolinium-enhanced T1-weighted image showing mild peripheral enhancement of the lentiform nuclei. case0080_005.png: Coronal gadolinium-enhanced T1-weighted image showing peripheral enhancement of the lentiform nuclei. case0080_001.png: ADC map showing hyperintense lesions in globus pallidi, sign of chronicity., provide your diagnosis for the disease. Output only the final diagnosis without any additional text or explanation, e.g: 'Tumefactive demyelination.'",
+    "clinical_history": "A six-year-old male child presented to the emergency room complaining about weakness, lethargy, abnormal respiration and episodes of vomiting together with dizziness one month before. The parents admitted to developmental delay, eating disorders, seizures, iron-deficiency-anaemia under treatment, and surgical excision of adenoids 2 months ago. Workup revealed elevated ammonia and methylmalonyc acid levels and low vitamin-B12 levels in the blood.",
+    "findings": [
+      "case0080_006.png: Axial T2-weighted image showing hyperintensity in bilateral cerebral penducles.",
+      "case0080_002.png: Axial FLAIR image depicting hyperintensity in the basal ganglia.",
+      "case0080_003.png: Axial FLAIR image showing hyperintensity in the brainstem.",
+      "case0080_004.png: Axial gadolinium-enhanced T1-weighted image showing mild peripheral enhancement of the lentiform nuclei.",
+      "case0080_005.png: Coronal gadolinium-enhanced T1-weighted image showing peripheral enhancement of the lentiform nuclei.",
+      "case0080_001.png: ADC map showing hyperintense lesions in globus pallidi, sign of chronicity."
+    ]
+  },
+  {
+    "case_id": "case0150",
+    "prediction": "Non-ketotic hyperglycemia-induced hemichorea-hemiballismus syndrome.",
+    "diagdifferential_diagnosisnosis": "Diabetic striatopathy; Wilson\u2019s disease; Manganese toxicity; Chronic hepatic encephalopathy; Striato-capsular infarct",
+    "final_diagnosis": "Diabetic striatopathy",
+    "prompt": "Based on the clinical history: A 66-year-old female with type II diabetes mellitus since 25 years on irregular treatment, presenting with complaint of random, uncontrollable, involuntary, jerking movements of left upper limb and left lower-limb , her random blood sugar was found 580 mg/dl, HbA1c -17.46% and urine ketones ++. and image findings: case0150_001.png: MRI T1WI axial image shows hyperintense signal intensity involving right caudate nucleus and putamen. case0150_002.png: MRI T2WI axial image show hypointense signal intensity involving right caudate nucleus and putamen. case0150_003.png: FLAIR axial image show hypointense signal intensity involving right caudate nucleus and putamen. case0150_004.png: ADC images shows no evidence of diffusion restriction., provide your diagnosis for the disease. Output only the final diagnosis without any additional text or explanation, e.g: 'Tumefactive demyelination.'",
+    "clinical_history": "A 66-year-old female with type II diabetes mellitus since 25 years on irregular treatment, presenting with complaint of random, uncontrollable, involuntary, jerking movements of left upper limb and left lower-limb , her random blood sugar was found 580 mg/dl, HbA1c -17.46% and urine ketones ++.",
+    "findings": [
+      "case0150_001.png: MRI T1WI axial image shows hyperintense signal intensity involving right caudate nucleus and putamen.",
+      "case0150_002.png: MRI T2WI axial image show hypointense signal intensity involving right caudate nucleus and putamen.",
+      "case0150_003.png: FLAIR axial image show hypointense signal intensity involving right caudate nucleus and putamen.",
+      "case0150_004.png: ADC images shows no evidence of diffusion restriction."
+    ]
+  },
+  {
+    "case_id": "case0127",
+    "prediction": "Wilson's disease.",
+    "diagdifferential_diagnosisnosis": "Case of Wilson disease in a patient with giddiness; Carbon Monoxide Poisoning; Leigh Disease; Huntington Disease",
+    "final_diagnosis": "Case of Wilson disease in a patient with giddiness",
+    "prompt": "Based on the clinical history: 19-year-old girl presented with mild tremors of hand in the last two months and giddiness, vomiting in the past two days. There was no significant history of similar complaints or other major illnesses in the patient's family. Neurologic examination showed subtle extra pyramidal symptoms and hence was referred for brain MRI. and image findings: case0127_001.png: T2-weighted axial MRI demonstrates symmetric hyperintense signals in the putamen, and thalami. case0127_002.png: T2-weighted axial MRI demonstrates the \u201cface of the giant panda\u201d in the midbrain with high signal in tegmentum and normal red nuclei. case0127_003.png: T2-weighted axial MRI reveals the \u201cface of the miniature panda\u201d in pons with hypointensity of central tegmental tracts with hyper intensity of periaqueductal opening to fourth ventricle., provide your diagnosis for the disease. Output only the final diagnosis without any additional text or explanation, e.g: 'Tumefactive demyelination.'",
+    "clinical_history": "19-year-old girl presented with mild tremors of hand in the last two months and giddiness, vomiting in the past two days. There was no significant history of similar complaints or other major illnesses in the patient's family. Neurologic examination showed subtle extra pyramidal symptoms and hence was referred for brain MRI.",
+    "findings": [
+      "case0127_001.png: T2-weighted axial MRI demonstrates symmetric hyperintense signals in the putamen, and thalami.",
+      "case0127_002.png: T2-weighted axial MRI demonstrates the \u201cface of the giant panda\u201d in the midbrain with high signal in tegmentum and normal red nuclei.",
+      "case0127_003.png: T2-weighted axial MRI reveals the \u201cface of the miniature panda\u201d in pons with hypointensity of central tegmental tracts with hyper intensity of periaqueductal opening to fourth ventricle."
+    ]
+  },
+  {
+    "case_id": "case0275",
+    "prediction": "Polymicrogyria",
+    "diagdifferential_diagnosisnosis": "Septo-optic dysplasia plus syndrome; Lobar holoprosencephaly; Congenital hypopituitarism; Kallmann syndrome",
+    "final_diagnosis": "Septo-optic dysplasia plus syndrome",
+    "prompt": "Based on the clinical history: The patient is a 5-year-old male with a history of medicated panhypopituitarism and psychomotor development delay. Ophthalmologic examination revealed an absence of light perception and a pale optic disc on the left side. and image findings: case0275_001.png: Polymicrogyria. Axial (4a) and sagittal (4b) T1-weighted images show bilateral perisylvian polymicrogyria with insular and frontoparietal involvement, more extensive on the right side. The sylvian fissures extend superiorly, beyond their typical anatomic location. case0275_002.png: Polymicrogyria. Axial (4a) and sagittal (4b) T1-weighted images show bilateral perisylvian polymicrogyria with insular and frontoparietal involvement, more extensive on the right side. The sylvian fissures extend superiorly, beyond their typical anatomic location., provide your diagnosis for the disease. Output only the final diagnosis without any additional text or explanation, e.g: 'Tumefactive demyelination.'",
+    "clinical_history": "The patient is a 5-year-old male with a history of medicated panhypopituitarism and psychomotor development delay. Ophthalmologic examination revealed an absence of light perception and a pale optic disc on the left side.",
+    "findings": [
+      "case0275_001.png: Polymicrogyria. Axial (4a) and sagittal (4b) T1-weighted images show bilateral perisylvian polymicrogyria with insular and frontoparietal involvement, more extensive on the right side. The sylvian fissures extend superiorly, beyond their typical anatomic location.",
+      "case0275_002.png: Polymicrogyria. Axial (4a) and sagittal (4b) T1-weighted images show bilateral perisylvian polymicrogyria with insular and frontoparietal involvement, more extensive on the right side. The sylvian fissures extend superiorly, beyond their typical anatomic location."
+    ]
+  },
+  {
+    "case_id": "case0274",
+    "prediction": "Herpes simplex encephalitis.",
+    "diagdifferential_diagnosisnosis": "Differential Diagnosis not found.",
+    "final_diagnosis": "Tuberculosis meningoencephalitis",
+    "prompt": "Based on the clinical history: A 42-year-old female with a history of chronic cough and night sweats presented to the emergency department with a 2-week history of headache, fever, confusion, and altered mental status. The patient had no significant past medical history or known contact with tuberculosis. On examination, she was febrile (38.5\u00b0C), disoriented, and had nuchal rigidity. No focal neurological deficits were noted. and image findings: case0274_001.png: MRI DWI and ADC images showing cortical diffusion restriction in bilateral insular and cingulate gyrus (R > L) with infarct in the right posterior limb of the internal capsule. case0274_002.png: MRI FLAIR and T2 images, axial, coronal and sagittal sections showing hyperintensity and cortical swelling in bilateral inferior frontal and mesiotemporal regions (R > L)., provide your diagnosis for the disease. Output only the final diagnosis without any additional text or explanation, e.g: 'Tumefactive demyelination.'",
+    "clinical_history": "A 42-year-old female with a history of chronic cough and night sweats presented to the emergency department with a 2-week history of headache, fever, confusion, and altered mental status. The patient had no significant past medical history or known contact with tuberculosis. On examination, she was febrile (38.5\u00b0C), disoriented, and had nuchal rigidity. No focal neurological deficits were noted.",
+    "findings": [
+      "case0274_001.png: MRI DWI and ADC images showing cortical diffusion restriction in bilateral insular and cingulate gyrus (R > L) with infarct in the right posterior limb of the internal capsule.",
+      "case0274_002.png: MRI FLAIR and T2 images, axial, coronal and sagittal sections showing hyperintensity and cortical swelling in bilateral inferior frontal and mesiotemporal regions (R > L)."
+    ]
+  },
+  {
+    "case_id": "case0043",
+    "prediction": "Tuberous Sclerosis Complex",
+    "diagdifferential_diagnosisnosis": "Hypomelanosis of Ito; Tuberous sclerosis; Vitiligo; Neurofibromatosis",
+    "final_diagnosis": "Hypomelanosis of Ito",
+    "prompt": "Based on the clinical history: A 6-year-old boy came for MRI with complaints of delayed development, hypotonia, seizures. Birth history was normal and he was born to non-consanguineous parents. His younger sibling was normal. On clinical examination, the patient had multiple hypopigmented and hyperpigmented patches on limbs, back and chest. and image findings: case0043_001.png: FLAIR axial image showing hyperintensities in deep periventricular white matter bilaterally with small hypointense cysts within affected white matter. case0043_002.png: FLAIR axial image showing hyperintensities in deep periventricular white matter bilaterally with small hypointense cysts within affected white matter. case0043_005.png: T2W axial image showing  hyperintensities in deep periventricular white matter with small hyperintense cysts. case0043_003.png: T1W axial image showing  hypointense cysts in deep periventricular white matter. case0043_004.png: T1W sagittal image showing  hypointense cysts in deep periventricular white matter., provide your diagnosis for the disease. Output only the final diagnosis without any additional text or explanation, e.g: 'Tumefactive demyelination.'",
+    "clinical_history": "A 6-year-old boy came for MRI with complaints of delayed development, hypotonia, seizures. Birth history was normal and he was born to non-consanguineous parents. His younger sibling was normal. On clinical examination, the patient had multiple hypopigmented and hyperpigmented patches on limbs, back and chest.",
+    "findings": [
+      "case0043_001.png: FLAIR axial image showing hyperintensities in deep periventricular white matter bilaterally with small hypointense cysts within affected white matter.",
+      "case0043_002.png: FLAIR axial image showing hyperintensities in deep periventricular white matter bilaterally with small hypointense cysts within affected white matter.",
+      "case0043_005.png: T2W axial image showing  hyperintensities in deep periventricular white matter with small hyperintense cysts.",
+      "case0043_003.png: T1W axial image showing  hypointense cysts in deep periventricular white matter.",
+      "case0043_004.png: T1W sagittal image showing  hypointense cysts in deep periventricular white matter."
+    ]
+  },
+  {
+    "case_id": "case0212",
+    "prediction": "Pelizaeus-Merzbacher disease.",
+    "diagdifferential_diagnosisnosis": "Differential Diagnosis not found.",
+    "final_diagnosis": "L-2-hydroxyglutaric aciduria",
+    "prompt": "Based on the clinical history: A 3-year-old boy presented with a history of development delay, showing difficulties in the acquisition of words and sentence construction, and delayed capacity to walk without support. Parents concerns first began at 2 months of age because of hypotonia. Physical examination showed brachycephaly, ataxic gait and dysmetria. and image findings: case0212_001.png: Axial FLAIR presented bilateral hyperintensities of the frontoparietal and temporal subcortical WM, (c) more pronounced on the right in the latter. (d) Axial T2WI with hyperintensity of posterior periventricular WM bilaterally case0212_002.png: Axial FLAIR presented bilateral hyperintensities of the frontoparietal and temporal subcortical WM, (c) more pronounced on the right in the latter. (d) Axial T2WI with hyperintensity of posterior periventricular WM bilaterally case0212_003.png: Axial T2WI demonstrated hyperintensity of the globi pallidi, and a linear hyperintensity contouring the borders of both putamen and the head of the caudate nucleus case0212_004.png: Increased diffusivity on DWI of the globi pallidi and dentate nucleus with elevation of ADC, provide your diagnosis for the disease. Output only the final diagnosis without any additional text or explanation, e.g: 'Tumefactive demyelination.'",
+    "clinical_history": "A 3-year-old boy presented with a history of development delay, showing difficulties in the acquisition of words and sentence construction, and delayed capacity to walk without support. Parents concerns first began at 2 months of age because of hypotonia. Physical examination showed brachycephaly, ataxic gait and dysmetria.",
+    "findings": [
+      "case0212_001.png: Axial FLAIR presented bilateral hyperintensities of the frontoparietal and temporal subcortical WM, (c) more pronounced on the right in the latter. (d) Axial T2WI with hyperintensity of posterior periventricular WM bilaterally",
+      "case0212_002.png: Axial FLAIR presented bilateral hyperintensities of the frontoparietal and temporal subcortical WM, (c) more pronounced on the right in the latter. (d) Axial T2WI with hyperintensity of posterior periventricular WM bilaterally",
+      "case0212_003.png: Axial T2WI demonstrated hyperintensity of the globi pallidi, and a linear hyperintensity contouring the borders of both putamen and the head of the caudate nucleus",
+      "case0212_004.png: Increased diffusivity on DWI of the globi pallidi and dentate nucleus with elevation of ADC"
+    ]
+  },
+  {
+    "case_id": "case0113",
+    "prediction": "Cavernous angioma",
+    "diagdifferential_diagnosisnosis": "FAMILIAL CEREBRAL CAVERNOUS MALFORMATION SYNDROME; Amyloid angiopathy; Hypertensive bleed",
+    "final_diagnosis": "FAMILIAL CEREBRAL CAVERNOUS MALFORMATION SYNDROME",
+    "prompt": "Based on the clinical history: A 44-year-old female presented to the Neurology clinic complaining of chronic headache. She had no other complaint. There was no history of any associated aura or nausea. Patient refused for a Computed tomography of brain due to radiation hazard and underwent a non contrast MRI of brain. and image findings: case0113_001.png: T1W axial image shows a well defined hyperintense lesion in right frontal region. case0113_002.png: T2W axial image shows a well defined mixed signal intensity lesion in right frontal region with surrounding hemosiderin rim. case0113_003.png: T2W axial image shows a well defined mixed signal intensity lesion in left cerebellar hemisphere showing peripheral hypointense hemosiderin rim, provide your diagnosis for the disease. Output only the final diagnosis without any additional text or explanation, e.g: 'Tumefactive demyelination.'",
+    "clinical_history": "A 44-year-old female presented to the Neurology clinic complaining of chronic headache. She had no other complaint. There was no history of any associated aura or nausea. Patient refused for a Computed tomography of brain due to radiation hazard and underwent a non contrast MRI of brain.",
+    "findings": [
+      "case0113_001.png: T1W axial image shows a well defined hyperintense lesion in right frontal region.",
+      "case0113_002.png: T2W axial image shows a well defined mixed signal intensity lesion in right frontal region with surrounding hemosiderin rim.",
+      "case0113_003.png: T2W axial image shows a well defined mixed signal intensity lesion in left cerebellar hemisphere showing peripheral hypointense hemosiderin rim"
+    ]
+  },
+  {
+    "case_id": "case0106",
+    "prediction": "Metastatic brain tumor",
+    "diagdifferential_diagnosisnosis": "Pontine tuberculoma; Neurocysticercosis; Cerebral toxoplasmosis; Glioblastoma; Intracranial metastasis",
+    "final_diagnosis": "Pontine tuberculoma",
+    "prompt": "Based on the clinical history: A 32-year-old male patient presented with complaints of sudden loss of consciousness and right-sided weakness for the past 2 days. The patient had chronic cough with expectoration, low-grade fever and weight loss for the past 6 months. and image findings: case0106_003.png: T2 axial scan shows heterogeneously hypointense lesion involving pons predominantly on left side, with surrounding hyperintensity due to oedema. The lesion posteriorly causes narrowing of fourth ventricle. case0106_004.png: On FLAIR sequence the lesion appears hypo to isointense with internal hypointense area. Surrounding area of both cerebellar hemisphere also appears hyperintense due to perilesional oedema. case0106_001.png: On postcontrast T1 fat sat scan ring-enhancing lesion is seen involving pons predominantly on left side. case0106_002.png: Postcontrast T1 iso 3D sequence also shows ring-enhancing lesion., provide your diagnosis for the disease. Output only the final diagnosis without any additional text or explanation, e.g: 'Tumefactive demyelination.'",
+    "clinical_history": "A 32-year-old male patient presented with complaints of sudden loss of consciousness and right-sided weakness for the past 2 days. The patient had chronic cough with expectoration, low-grade fever and weight loss for the past 6 months.",
+    "findings": [
+      "case0106_003.png: T2 axial scan shows heterogeneously hypointense lesion involving pons predominantly on left side, with surrounding hyperintensity due to oedema. The lesion posteriorly causes narrowing of fourth ventricle.",
+      "case0106_004.png: On FLAIR sequence the lesion appears hypo to isointense with internal hypointense area. Surrounding area of both cerebellar hemisphere also appears hyperintense due to perilesional oedema.",
+      "case0106_001.png: On postcontrast T1 fat sat scan ring-enhancing lesion is seen involving pons predominantly on left side.",
+      "case0106_002.png: Postcontrast T1 iso 3D sequence also shows ring-enhancing lesion."
+    ]
+  },
+  {
+    "case_id": "case0208",
+    "prediction": "Focal cortical dysplasia.",
+    "diagdifferential_diagnosisnosis": "Angiocentric glioma; Dysembryoplastic neuroepithelial tumour (DNET); Multinodular and Vacuolating Neuronal Tumor (MVNT); Ganglioglioma; Oligodendroglioma",
+    "final_diagnosis": "Angiocentric glioma",
+    "prompt": "Based on the clinical history: A 15-year-old male with a history of refractory epilepsy for the last three years. During the previous weeks, the patient had a gradual clinical worsening with frequent and prolonged seizures. The patient had no other relevant clinical history. The patient was submitted to an electroencephalogram (EEG) that revealed interictal and sporadic paroxysmal activity with a right superior frontal location. and image findings: case0208_001.png: No abnormal enhancement was seen in the post-contrast T1 FSE sequence., provide your diagnosis for the disease. Output only the final diagnosis without any additional text or explanation, e.g: 'Tumefactive demyelination.'",
+    "clinical_history": "A 15-year-old male with a history of refractory epilepsy for the last three years. During the previous weeks, the patient had a gradual clinical worsening with frequent and prolonged seizures. The patient had no other relevant clinical history. The patient was submitted to an electroencephalogram (EEG) that revealed interictal and sporadic paroxysmal activity with a right superior frontal location.",
+    "findings": [
+      "case0208_001.png: No abnormal enhancement was seen in the post-contrast T1 FSE sequence."
+    ]
+  },
+  {
+    "case_id": "case0070",
+    "prediction": "Olivopontocerebellar atrophy with palatal myoclonus.",
+    "diagdifferential_diagnosisnosis": "Hypertrophic olivary degeneration; Demyelinating disorders; Astrocytoma; Infections",
+    "final_diagnosis": "Hypertrophic olivary degeneration",
+    "prompt": "Based on the clinical history: One month after having run out of his anti-hypertensive medication, a 61-year-old male patient was diagnosed in the emergency room as having had a stroke. Nine months after the stroke, he developed a synchronous tremor in his palate. and image findings: case0070_001.png: Day 0. Interval evolution of haemorrhage of the dorsal pons, a slightly\neccentric to the right. case0070_002.png: Day 30. Interval evolution of haemorrhage of the dorsal pons, a slightly\neccentric to the right. case0070_003.png: Day 120. Interval evolution of haemorrhage of the dorsal pons, a slightly\neccentric to the right. case0070_011.png: Day 0. Interval evolution of haemorrhage of the dorsal pons. case0070_008.png: Day 30. Interval evolution of haemorrhage of the dorsal pons. case0070_009.png: Day 120. Interval evolution of haemorrhage of the dorsal pons. case0070_010.png: Day 270. Interval evolution of haemorrhage of the dorsal pons. case0070_004.png: Day 270. Interval\ndevelopment of an expansile lesion of the right medullary olive. case0070_005.png: Day 270. Interval\ndevelopment of an expansile lesion of the right medullary olive. case0070_006.png: Day 270. Interval development of an expansile lesion of the right medullary olive. case0070_007.png: Day 270. Interval development of an expansile lesion of the right medullary olive., provide your diagnosis for the disease. Output only the final diagnosis without any additional text or explanation, e.g: 'Tumefactive demyelination.'",
+    "clinical_history": "One month after having run out of his anti-hypertensive medication, a 61-year-old male patient was diagnosed in the emergency room as having had a stroke. Nine months after the stroke, he developed a synchronous tremor in his palate.",
+    "findings": [
+      "case0070_001.png: Day 0. Interval evolution of haemorrhage of the dorsal pons, a slightly\neccentric to the right.",
+      "case0070_002.png: Day 30. Interval evolution of haemorrhage of the dorsal pons, a slightly\neccentric to the right.",
+      "case0070_003.png: Day 120. Interval evolution of haemorrhage of the dorsal pons, a slightly\neccentric to the right.",
+      "case0070_011.png: Day 0. Interval evolution of haemorrhage of the dorsal pons.",
+      "case0070_008.png: Day 30. Interval evolution of haemorrhage of the dorsal pons.",
+      "case0070_009.png: Day 120. Interval evolution of haemorrhage of the dorsal pons.",
+      "case0070_010.png: Day 270. Interval evolution of haemorrhage of the dorsal pons.",
+      "case0070_004.png: Day 270. Interval\ndevelopment of an expansile lesion of the right medullary olive.",
+      "case0070_005.png: Day 270. Interval\ndevelopment of an expansile lesion of the right medullary olive.",
+      "case0070_006.png: Day 270. Interval development of an expansile lesion of the right medullary olive.",
+      "case0070_007.png: Day 270. Interval development of an expansile lesion of the right medullary olive."
+    ]
+  },
+  {
+    "case_id": "case0012",
+    "prediction": "Tumefactive demyelination.",
+    "diagdifferential_diagnosisnosis": "Tumefactive demyelination.; Glioma; Stroke; ADEM; Lymphoma; Metastasis; Abscess; Neurosarcoidosis",
+    "final_diagnosis": "Tumefactive demyelination.",
+    "prompt": "Based on the clinical history: A 44-year-old gentleman, a known case of pulmonary sarcoidosis since 10 years, came to the ER department following an episode of seizure along with sudden onset weakness on the right side of the face and right lower limb. Clinically, vasculitis-induced stroke or a glioma were suspected. and image findings: case0012_003.png: Axial T2WI image showing an ill-defined hyperintensity in left centrum semiovale.\nNo definite mass effect is noted. case0012_004.png: Axial  T1WI image  showing an ill-defined hypointensity in left centrum semiovale.\nNo definite mass effect is noted. case0012_005.png: Axial FLAIR image showing an ill-defined hyperintensity in left centrum semiovale. case0012_006.png: Coronal T2WI image showing an ill-defined hyperintensity in left centrum semiovale, periventricular and subcortical white matter. No definite mass effect is noted. case0012_001.png: Diffusion-weighted image shows no definite rim of restriction, which was appreciated in the initial scans. case0012_002.png: Axial T2/ FLAIR image shows reduction in the size and extent of the white matter signal alteration., provide your diagnosis for the disease. Output only the final diagnosis without any additional text or explanation, e.g: 'Tumefactive demyelination.'",
+    "clinical_history": "A 44-year-old gentleman, a known case of pulmonary sarcoidosis since 10 years, came to the ER department following an episode of seizure along with sudden onset weakness on the right side of the face and right lower limb. Clinically, vasculitis-induced stroke or a glioma were suspected.",
+    "findings": [
+      "case0012_003.png: Axial T2WI image showing an ill-defined hyperintensity in left centrum semiovale.\nNo definite mass effect is noted.",
+      "case0012_004.png: Axial  T1WI image  showing an ill-defined hypointensity in left centrum semiovale.\nNo definite mass effect is noted.",
+      "case0012_005.png: Axial FLAIR image showing an ill-defined hyperintensity in left centrum semiovale.",
+      "case0012_006.png: Coronal T2WI image showing an ill-defined hyperintensity in left centrum semiovale, periventricular and subcortical white matter. No definite mass effect is noted.",
+      "case0012_001.png: Diffusion-weighted image shows no definite rim of restriction, which was appreciated in the initial scans.",
+      "case0012_002.png: Axial T2/ FLAIR image shows reduction in the size and extent of the white matter signal alteration."
+    ]
+  },
+  {
+    "case_id": "case0200",
+    "prediction": "Acute disseminated encephalomyelitis (ADEM)",
+    "diagdifferential_diagnosisnosis": "Differential Diagnosis not found.",
+    "final_diagnosis": "Chronic Lymphocytic",
+    "prompt": "Based on the clinical history: A 24-year-old man presented to our hospital with an established subacute dizziness with gait instability, ataxia, diplopia, dysarthria, dysphagia, slurred speech and quadriplegia. Cerebrospinal fluid analysis revealed elevated white blood cell count with lymphocytes. Extensive laboratory evaluation of serum and CSF biomarkers for autoimmune and infectious causes werd\u00a0negative. and image findings: case0200_001.png: Axial T2 - weighted image showed high signal of the pons, provide your diagnosis for the disease. Output only the final diagnosis without any additional text or explanation, e.g: 'Tumefactive demyelination.'",
+    "clinical_history": "A 24-year-old man presented to our hospital with an established subacute dizziness with gait instability, ataxia, diplopia, dysarthria, dysphagia, slurred speech and quadriplegia. Cerebrospinal fluid analysis revealed elevated white blood cell count with lymphocytes. Extensive laboratory evaluation of serum and CSF biomarkers for autoimmune and infectious causes werd\u00a0negative.",
+    "findings": [
+      "case0200_001.png: Axial T2 - weighted image showed high signal of the pons"
+    ]
+  },
+  {
+    "case_id": "case0247",
+    "prediction": "Tuberculous meningitis",
+    "diagdifferential_diagnosisnosis": "Intracranial tuberculous abscess; Tuberculoma involving cerebellum with resultant hydrocephalus; Neurocysticercosis; Cerebral toxoplasmosis; Cerebral metastasis; CNS lymphoma",
+    "final_diagnosis": "Tuberculoma involving cerebellum with resultant hydrocephalus",
+    "prompt": "Based on the clinical history: A 7-year-old female patient presents with regression of motor developmental milestones. The patient had a cough, low-grade fever and weight loss for the past 6 months. and image findings: case0247_001.png: On T2 weighted axial image, gross proximal hydrocephalus in form symmetrical dilatation of bilateral lateral ventricles and third ventricle due to compression over sylvian aqueduct, provide your diagnosis for the disease. Output only the final diagnosis without any additional text or explanation, e.g: 'Tumefactive demyelination.'",
+    "clinical_history": "A 7-year-old female patient presents with regression of motor developmental milestones. The patient had a cough, low-grade fever and weight loss for the past 6 months.",
+    "findings": [
+      "case0247_001.png: On T2 weighted axial image, gross proximal hydrocephalus in form symmetrical dilatation of bilateral lateral ventricles and third ventricle due to compression over sylvian aqueduct"
+    ]
+  },
+  {
+    "case_id": "case0255",
+    "prediction": "Venous malformation",
+    "diagdifferential_diagnosisnosis": "Haemangioma; Subgaleal haematoma; Pseudomeningocele; Sinus pericranii; Dermoid cyst",
+    "final_diagnosis": "Sinus pericranii",
+    "prompt": "Based on the clinical history: A 5-year-old boy presented to the paediatric clinic with a parietal cranial soft tissue mass present since birth. The mass had become progressively sore and increased in size. The patient had no significant medical history, other complaints, or neurological deficits. and image findings: case0255_001.png: Sagittal T2 Flair image showing a subcutaneous extracranial soft tissue mass with high signal intensity and internal vascular structures with low signal intensity, probably representing flow voids. case0255_002.png: Non-contrast enhanced sagittal T1-weighted image showing a subcutaneous extracranial soft tissue mass with intermediate signal intensity. case0255_003.png: Contrast-enhanced sagittal T1-weighted image showing high signal intensity. There is contrast enhancement in parts of the lesion, indicating communication with the venous system. A communicating emissary vein can be seen passing from the lesion through the skull., provide your diagnosis for the disease. Output only the final diagnosis without any additional text or explanation, e.g: 'Tumefactive demyelination.'",
+    "clinical_history": "A 5-year-old boy presented to the paediatric clinic with a parietal cranial soft tissue mass present since birth. The mass had become progressively sore and increased in size. The patient had no significant medical history, other complaints, or neurological deficits.",
+    "findings": [
+      "case0255_001.png: Sagittal T2 Flair image showing a subcutaneous extracranial soft tissue mass with high signal intensity and internal vascular structures with low signal intensity, probably representing flow voids.",
+      "case0255_002.png: Non-contrast enhanced sagittal T1-weighted image showing a subcutaneous extracranial soft tissue mass with intermediate signal intensity.",
+      "case0255_003.png: Contrast-enhanced sagittal T1-weighted image showing high signal intensity. There is contrast enhancement in parts of the lesion, indicating communication with the venous system. A communicating emissary vein can be seen passing from the lesion through the skull."
+    ]
+  },
+  {
+    "case_id": "case0135",
+    "prediction": "Acute disseminated encephalomyelitis (ADEM).",
+    "diagdifferential_diagnosisnosis": "Chronic lymphocytic inflammation with pontine perivascular enhancement responsive to steroids; Viral infection; Listeria monocytogenes; Neurosarcoidosis; Vasculitis; Central nervous system lymphoma",
+    "final_diagnosis": "Chronic lymphocytic inflammation with pontine perivascular enhancement responsive to steroids",
+    "prompt": "Based on the clinical history: A 71-year-old male patient complained of gait ataxia, loss of muscle strength, recurrent falls, tremor in both hands and a weight loss of 10 kg over the last 3 months. The patient came to the emergency room after an acute episode of dysarthria and tingling in the face on the left side. and image findings: case0135_001.png: Initial brain MRI obtained 2 days after admission. Axial T2-weighted (A), T2-FLAIR weighted (B, C), diffusion-weighted (D)and contrast-enhanced T1-weighted (E, F) images. Observe the T2/FLAIR signal hyperintensity involving the brainstem, predominantly the pons, without restricted diffusivity, but with multiple associated patchy spot-like and curvilinear areas of contrast enhancement \u201cpeppering\u201d the pons with minimal extension into the middle cerebellar peduncles. case0135_005.png: Initial brain MRI obtained 2 days after admission. Axial T2-weighted (A), T2-FLAIR weighted (B, C), diffusion-weighted (D)and contrast-enhanced T1-weighted (E, F) images. Observe the T2/FLAIR signal hyperintensity involving the brainstem, predominantly the pons, without restricted diffusivity, but with multiple associated patchy spot-like and curvilinear areas of contrast enhancement \u201cpeppering\u201d the pons with minimal extension into the middle cerebellar peduncles. case0135_006.png: Initial brain MRI obtained 2 days after admission. Axial T2-weighted (A), T2-FLAIR weighted (B, C), diffusion-weighted (D)and contrast-enhanced T1-weighted (E, F) images. Observe the T2/FLAIR signal hyperintensity involving the brainstem, predominantly the pons, without restricted diffusivity, but with multiple associated patchy spot-like and curvilinear areas of contrast enhancement \u201cpeppering\u201d the pons with minimal extension into the middle cerebellar peduncles. case0135_002.png: Follow-up brain MRI obtained 10 days after steroid treatment. Axial T2-weighted (A), T2-FLAIR weighted (B), and contrast-enhanced T1-weighted (C) images. Partial resolution of the T2 signal abnormalities and contrast enhancemnet is observed. case0135_003.png: Follow-up brain MRI obtained 10 days after steroid treatment. Axial T2-weighted (A), T2-FLAIR weighted (B), and contrast-enhanced T1-weighted (C) images. Partial resolution of the T2 signal abnormalities and contrast enhancemnet is observed. case0135_004.png: Follow-up brain MRI obtained 10 days after steroid treatment. Axial T2-weighted (A), T2-FLAIR weighted (B), and contrast-enhanced T1-weighted (C) images. Partial resolution of the T2 signal abnormalities and contrast enhancemnet is observed., provide your diagnosis for the disease. Output only the final diagnosis without any additional text or explanation, e.g: 'Tumefactive demyelination.'",
+    "clinical_history": "A 71-year-old male patient complained of gait ataxia, loss of muscle strength, recurrent falls, tremor in both hands and a weight loss of 10 kg over the last 3 months. The patient came to the emergency room after an acute episode of dysarthria and tingling in the face on the left side.",
+    "findings": [
+      "case0135_001.png: Initial brain MRI obtained 2 days after admission. Axial T2-weighted (A), T2-FLAIR weighted (B, C), diffusion-weighted (D)and contrast-enhanced T1-weighted (E, F) images. Observe the T2/FLAIR signal hyperintensity involving the brainstem, predominantly the pons, without restricted diffusivity, but with multiple associated patchy spot-like and curvilinear areas of contrast enhancement \u201cpeppering\u201d the pons with minimal extension into the middle cerebellar peduncles.",
+      "case0135_005.png: Initial brain MRI obtained 2 days after admission. Axial T2-weighted (A), T2-FLAIR weighted (B, C), diffusion-weighted (D)and contrast-enhanced T1-weighted (E, F) images. Observe the T2/FLAIR signal hyperintensity involving the brainstem, predominantly the pons, without restricted diffusivity, but with multiple associated patchy spot-like and curvilinear areas of contrast enhancement \u201cpeppering\u201d the pons with minimal extension into the middle cerebellar peduncles.",
+      "case0135_006.png: Initial brain MRI obtained 2 days after admission. Axial T2-weighted (A), T2-FLAIR weighted (B, C), diffusion-weighted (D)and contrast-enhanced T1-weighted (E, F) images. Observe the T2/FLAIR signal hyperintensity involving the brainstem, predominantly the pons, without restricted diffusivity, but with multiple associated patchy spot-like and curvilinear areas of contrast enhancement \u201cpeppering\u201d the pons with minimal extension into the middle cerebellar peduncles.",
+      "case0135_002.png: Follow-up brain MRI obtained 10 days after steroid treatment. Axial T2-weighted (A), T2-FLAIR weighted (B), and contrast-enhanced T1-weighted (C) images. Partial resolution of the T2 signal abnormalities and contrast enhancemnet is observed.",
+      "case0135_003.png: Follow-up brain MRI obtained 10 days after steroid treatment. Axial T2-weighted (A), T2-FLAIR weighted (B), and contrast-enhanced T1-weighted (C) images. Partial resolution of the T2 signal abnormalities and contrast enhancemnet is observed.",
+      "case0135_004.png: Follow-up brain MRI obtained 10 days after steroid treatment. Axial T2-weighted (A), T2-FLAIR weighted (B), and contrast-enhanced T1-weighted (C) images. Partial resolution of the T2 signal abnormalities and contrast enhancemnet is observed."
+    ]
+  },
+  {
+    "case_id": "case0018",
+    "prediction": "Colloid cyst",
+    "diagdifferential_diagnosisnosis": "Colloid cyst; Intraventricular haemorrhage; Ependymoma",
+    "final_diagnosis": "Colloid cyst",
+    "prompt": "Based on the clinical history: A 56-years-old man consulted his General Practitioner with a history of increased feeling of cranial pressure and headache for two days. The patient was sent to the local Casualty Department. In clinical examination nothing abnormal was detected. All laboratory tests were normal. A cranial CT was performed, followed by cranial MRI. and image findings: case0018_003.png: MRI T2 coronal showing the intraventricular colloid cyst being hypointense compared to the cerebrospinal fluid. case0018_001.png: MRI T1 transversal. The lesion is isointense to the cerebrum. case0018_002.png: MRI T1 post-contrast (7 ml Gadovist) \u2013 no enhancement of the lesion., provide your diagnosis for the disease. Output only the final diagnosis without any additional text or explanation, e.g: 'Tumefactive demyelination.'",
+    "clinical_history": "A 56-years-old man consulted his General Practitioner with a history of increased feeling of cranial pressure and headache for two days. The patient was sent to the local Casualty Department. In clinical examination nothing abnormal was detected. All laboratory tests were normal. A cranial CT was performed, followed by cranial MRI.",
+    "findings": [
+      "case0018_003.png: MRI T2 coronal showing the intraventricular colloid cyst being hypointense compared to the cerebrospinal fluid.",
+      "case0018_001.png: MRI T1 transversal. The lesion is isointense to the cerebrum.",
+      "case0018_002.png: MRI T1 post-contrast (7 ml Gadovist) \u2013 no enhancement of the lesion."
+    ]
+  },
+  {
+    "case_id": "case0054",
+    "prediction": "Wernicke encephalopathy.",
+    "diagdifferential_diagnosisnosis": "Transient splenial lesion of corpus callosum due to sudden withdrawal of anti-epileptic drugs.; Infections like influenza; measles; herpes; salmonella; mumps; varicella zoster; HIV; tubercular menigitis; Hypoglycaemia; Cerebral trauma; Brain infarction; Multiple sclersosis; Neoplasm; Marchiafava-bignami syndrome; Haemolytic uraemic syndrome with encephalopathy",
+    "final_diagnosis": "Transient splenial lesion of corpus callosum due to sudden withdrawal of anti-epileptic drugs.",
+    "prompt": "Based on the clinical history: A 17-year-old female patient with a known seizure disorder presented to the casualty with tonic-clonic seizures, in an unconscious state, and loss of both upper and lower limb reflexes. She was previously on anti-epileptics, which were stopped for 2 months for a gummatous inflammation. and image findings: case0054_001.png: Axial diffusion-weighted image shows decrease in the signal intensity in the splenium of the corpus callosum., provide your diagnosis for the disease. Output only the final diagnosis without any additional text or explanation, e.g: 'Tumefactive demyelination.'",
+    "clinical_history": "A 17-year-old female patient with a known seizure disorder presented to the casualty with tonic-clonic seizures, in an unconscious state, and loss of both upper and lower limb reflexes. She was previously on anti-epileptics, which were stopped for 2 months for a gummatous inflammation.",
+    "findings": [
+      "case0054_001.png: Axial diffusion-weighted image shows decrease in the signal intensity in the splenium of the corpus callosum."
+    ]
+  },
+  {
+    "case_id": "case0277",
+    "prediction": "Calcifying pseudotumor of the orbit.",
+    "diagdifferential_diagnosisnosis": "Dysplasia fibrosa; Cemento-ossifying fibroma; Meningioma; Chondromesenchymal hamartoma; Psammomatoid juvenile ossifying fibroma",
+    "final_diagnosis": "Psammomatoid juvenile ossifying fibroma",
+    "prompt": "Based on the clinical history: A 10-year-old patient with a personal history of strabismus surgery at the age of 2 years, presented with progressive limitation\u00a0of upward eye movements and proptosis of the right eye. She does not report diplopia, blurred vision or pain. and image findings: case0277_001.png: Pre-surgical MRI: The lesion appears hypointense on both the T1-weighted (2a) and T2-weighted (2b) axial images. In the axial image of the susceptibility-weighted sequence (2c), it is markedly hypointense, suggesting a calcified lesion. The coronal (2d) and axial (2e) images obtained after intravenous contrast administration show enhancement of the lesion. Additionally, the axial diffusion-weighted imaging (DWI) (2f) does not demonstrate diffusion restriction, probably due to its fibrotic/calcified component. case0277_002.png: Pre-surgical MRI: The lesion appears hypointense on both the T1-weighted (2a) and T2-weighted (2b) axial images. In the axial image of the susceptibility-weighted sequence (2c), it is markedly hypointense, suggesting a calcified lesion. The coronal (2d) and axial (2e) images obtained after intravenous contrast administration show enhancement of the lesion. Additionally, the axial diffusion-weighted imaging (DWI) (2f) does not demonstrate diffusion restriction, probably due to its fibrotic/calcified component. case0277_003.png: Pre-surgical MRI: The lesion appears hypointense on both the T1-weighted (2a) and T2-weighted (2b) axial images. In the axial image of the susceptibility-weighted sequence (2c), it is markedly hypointense, suggesting a calcified lesion. The coronal (2d) and axial (2e) images obtained after intravenous contrast administration show enhancement of the lesion. Additionally, the axial diffusion-weighted imaging (DWI) (2f) does not demonstrate diffusion restriction, probably due to its fibrotic/calcified component. case0277_004.png: Pre-surgical MRI: The lesion appears hypointense on both the T1-weighted (2a) and T2-weighted (2b) axial images. In the axial image of the susceptibility-weighted sequence (2c), it is markedly hypointense, suggesting a calcified lesion. The coronal (2d) and axial (2e) images obtained after intravenous contrast administration show enhancement of the lesion. Additionally, the axial diffusion-weighted imaging (DWI) (2f) does not demonstrate diffusion restriction, probably due to its fibrotic/calcified component., provide your diagnosis for the disease. Output only the final diagnosis without any additional text or explanation, e.g: 'Tumefactive demyelination.'",
+    "clinical_history": "A 10-year-old patient with a personal history of strabismus surgery at the age of 2 years, presented with progressive limitation\u00a0of upward eye movements and proptosis of the right eye. She does not report diplopia, blurred vision or pain.",
+    "findings": [
+      "case0277_001.png: Pre-surgical MRI: The lesion appears hypointense on both the T1-weighted (2a) and T2-weighted (2b) axial images. In the axial image of the susceptibility-weighted sequence (2c), it is markedly hypointense, suggesting a calcified lesion. The coronal (2d) and axial (2e) images obtained after intravenous contrast administration show enhancement of the lesion. Additionally, the axial diffusion-weighted imaging (DWI) (2f) does not demonstrate diffusion restriction, probably due to its fibrotic/calcified component.",
+      "case0277_002.png: Pre-surgical MRI: The lesion appears hypointense on both the T1-weighted (2a) and T2-weighted (2b) axial images. In the axial image of the susceptibility-weighted sequence (2c), it is markedly hypointense, suggesting a calcified lesion. The coronal (2d) and axial (2e) images obtained after intravenous contrast administration show enhancement of the lesion. Additionally, the axial diffusion-weighted imaging (DWI) (2f) does not demonstrate diffusion restriction, probably due to its fibrotic/calcified component.",
+      "case0277_003.png: Pre-surgical MRI: The lesion appears hypointense on both the T1-weighted (2a) and T2-weighted (2b) axial images. In the axial image of the susceptibility-weighted sequence (2c), it is markedly hypointense, suggesting a calcified lesion. The coronal (2d) and axial (2e) images obtained after intravenous contrast administration show enhancement of the lesion. Additionally, the axial diffusion-weighted imaging (DWI) (2f) does not demonstrate diffusion restriction, probably due to its fibrotic/calcified component.",
+      "case0277_004.png: Pre-surgical MRI: The lesion appears hypointense on both the T1-weighted (2a) and T2-weighted (2b) axial images. In the axial image of the susceptibility-weighted sequence (2c), it is markedly hypointense, suggesting a calcified lesion. The coronal (2d) and axial (2e) images obtained after intravenous contrast administration show enhancement of the lesion. Additionally, the axial diffusion-weighted imaging (DWI) (2f) does not demonstrate diffusion restriction, probably due to its fibrotic/calcified component."
+    ]
+  }
+]
