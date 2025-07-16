@@ -1,0 +1,646 @@
+[
+  {
+    "case_id": "case0061",
+    "image": "case0061_001.png",
+    "ground_truth": "Axial contrast-enhanced T1 3D sequence shows an isointense mass and slight enhancement.",
+    "prediction": "This axial MRI image demonstrates a large, well-defined, hypointense mass occupying the central portion of the brain, likely within the ventricular system. The mass appears to cause significant mass effect with compression and displacement of surrounding brain structures. There is evidence of hydrocephalus, indicated by the dilation of the lateral ventricles. The cerebral parenchyma shows areas of hyperintensity, possibly representing edema or gliosis. No acute hemorrhage is evident. Further evaluation with contrast-enhanced imaging and clinical correlation is recommended to determine the nature of this lesion.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0061",
+    "image": "case0061_002.png",
+    "ground_truth": "Axial T2 gradient image shows a small hypointense area within the intraventricular mass, compatible with calcification.",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates a large, well-defined, hyperintense lesion occupying the central portion of the brain, extending into both cerebral hemispheres. The lesion appears to involve the corpus callosum and surrounding white matter, with possible mass effect on adjacent structures. There is no evident acute hemorrhage within the lesion. The surrounding parenchyma shows some hypointense areas that may represent gliosis or edema. Further evaluation with contrast-enhanced sequences and additional imaging planes is recommended to characterize the lesion more definitively and assess for any associated vascular or neoplastic processes.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0246",
+    "image": "case0246_001.png",
+    "ground_truth": "T1 sequence showing high signal in basal ganglia bilaterally",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates notable enlargement of the lateral ventricles, suggestive of hydrocephalus. There is also evidence of diffuse cerebral atrophy, with widening of the sulci and gyri. No acute intracranial hemorrhage, mass effect, or midline shift is observed. Further evaluation may be warranted to determine the underlying cause of the ventricular dilation and atrophy.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0115",
+    "image": "case0115_007.png",
+    "ground_truth": "Micronodule abscess into the right centrum semiovale characterised by hyperintensity with a hypointense ring on T2WI (Fig. 3a), hypointensity on ADC map (Fig. 3b), \u201cdual rim sign\u201d on SWI (Fig. 3c) and ring enhancement on T1 after contrast (Fig. 3d).",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates generally symmetric gyral and sulcal patterns. There is no evidence of acute hemorrhage, midline shift, or mass effect. However, there appears to be a small, well-defined hyperintense lesion in the left frontal lobe, which may represent a focal area of gliosis, demyelination, or other pathology. Further evaluation with additional sequences (e.g., FLAIR, DWI) and clinical correlation is recommended to characterize this finding accurately. The ventricles and subarachnoid spaces appear unremarkable.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0115",
+    "image": "case0115_001.png",
+    "ground_truth": "Micronodule abscess into the right centrum semiovale characterised by hyperintensity with a hypointense ring on T2WI (Fig. 3a), hypointensity on ADC map (Fig. 3b), \u201cdual rim sign\u201d on SWI (Fig. 3c) and ring enhancement on T1 after contrast (Fig. 3d).",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates a well-defined area of hyperintensity in the right parietal lobe, suggestive of an acute or subacute ischemic lesion or possibly demyelination. There is no evident mass effect, midline shift, or hemorrhagic transformation. The surrounding parenchyma appears unremarkable, with no significant edema. Further clinical correlation and additional imaging sequences are recommended for definitive diagnosis.",
+    "llm_score": 2
+  },
+  {
+    "case_id": "case0115",
+    "image": "case0115_002.png",
+    "ground_truth": "Micronodule abscess into the right centrum semiovale characterised by hyperintensity with a hypointense ring on T2WI (Fig. 3a), hypointensity on ADC map (Fig. 3b), \u201cdual rim sign\u201d on SWI (Fig. 3c) and ring enhancement on T1 after contrast (Fig. 3d).",
+    "prediction": "This axial T1-weighted MRI image of the brain demonstrates a well-defined, hypointense lesion located within the right frontal lobe. The lesion appears to have a central hyperintense area, possibly indicative of calcification or hemorrhage. There is no evident mass effect, midline shift, or surrounding edema. The cerebral sulci and gyri appear normal bilaterally, with no signs of acute infarction or hemorrhage. Further evaluation with contrast-enhanced imaging may be necessary to characterize the lesion further.",
+    "llm_score": 2
+  },
+  {
+    "case_id": "case0115",
+    "image": "case0115_003.png",
+    "ground_truth": "MR. FLAIR images show a ventricular enlargement with a subependymal rim of hyperintensity corresponding to transependymal oedema. Hyperintense material is visible in the occipital horns of the lateral ventricles (Fig. 4a), in the trigones (Fig. 4b), in the body of the lateral ventricles (Fig. 4c). DWI (b=1000) images evidence restricted diffusion of material in the fourth ventricle and in the prepontine cystern (Fig. 4d) and in the lateral ventricles (Fig.4e). After contrast injection FSPGR images show subependymal enhancement of the right ventricle (Fig. 4f).",
+    "prediction": "The provided image appears to be an axial T2-weighted MRI scan of the brain. The cerebral parenchyma demonstrates normal gyral and sulcal patterns bilaterally. There is no evidence of acute intracranial hemorrhage, midline shift, or mass effect. The ventricular system appears unremarkable without signs of hydrocephalus. Notably, there is a region of hyperintensity within the left temporal lobe, which may represent gliosis, demyelination, or other pathology; further clinical correlation and possibly additional imaging sequences are recommended for definitive characterization. The surrounding structures, including the basal ganglia and thalami, appear within normal limits.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0115",
+    "image": "case0115_004.png",
+    "ground_truth": "MR. FLAIR images show a ventricular enlargement with a subependymal rim of hyperintensity corresponding to transependymal oedema. Hyperintense material is visible in the occipital horns of the lateral ventricles (Fig. 4a), in the trigones (Fig. 4b), in the body of the lateral ventricles (Fig. 4c). DWI (b=1000) images evidence restricted diffusion of material in the fourth ventricle and in the prepontine cystern (Fig. 4d) and in the lateral ventricles (Fig.4e). After contrast injection FSPGR images show subependymal enhancement of the right ventricle (Fig. 4f).",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates prominent bilateral lateral ventricles with evidence of moderate hydrocephalus. There is diffuse white matter signal abnormality, suggestive of gliosis or demyelination. No acute intracranial hemorrhage or mass lesion is identified. The cerebral sulci appear compressed secondary to the ventricular enlargement. Further evaluation with contrast-enhanced imaging and clinical correlation is recommended to determine the underlying etiology.",
+    "llm_score": 2
+  },
+  {
+    "case_id": "case0115",
+    "image": "case0115_005.png",
+    "ground_truth": "MR examination obtained after one month of antibiotic therapy and external ventricular drainage (Campylobacter rectus was the agent isolated from the CSF). T2WI (Fig. 5a) and FSPGR image with contrast show the reduction of the abscess. Pus is absent in the ventricles as documented with DWI (b=1000) in Fig. 5c. No subependymal enhancement is appreciated after contrast injection in FSPGR (Fig. 5d). The right ventricle is partially collapsed after external ventricular drainage.",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates symmetrical gyral and sulcal patterns with no gross structural abnormalities. The ventricles appear normal in size and configuration. There is no evidence of acute hemorrhage, mass effect, midline shift, or focal lesions. The parenchyma shows no significant areas of hyperintensity or hypointensity suggestive of pathology. Overall, the image appears within normal limits without any immediately apparent abnormalities. Further clinical correlation and additional imaging sequences may be necessary for a comprehensive evaluation.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0115",
+    "image": "case0115_006.png",
+    "ground_truth": "MR examination obtained after one month of antibiotic therapy and external ventricular drainage (Campylobacter rectus was the agent isolated from the CSF). T2WI (Fig. 5a) and FSPGR image with contrast show the reduction of the abscess. Pus is absent in the ventricles as documented with DWI (b=1000) in Fig. 5c. No subependymal enhancement is appreciated after contrast injection in FSPGR (Fig. 5d). The right ventricle is partially collapsed after external ventricular drainage.",
+    "prediction": "The provided image is an axial T2-weighted MRI of the brain. Notable findings include multiple hyperintense lesions scattered throughout the cerebral white matter bilaterally, which may suggest demyelinating disease such as multiple sclerosis. There is no evidence of acute hemorrhage, midline shift, or mass effect. The ventricles and sulci appear within normal limits. Further clinical correlation and additional imaging sequences are recommended for a comprehensive evaluation.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0088",
+    "image": "case0088_004.png",
+    "ground_truth": "After paramagnetic contrast intravenous injection, the lesion demonstrates intense enhancement.",
+    "prediction": "This axial T1-weighted MRI image of the brain demonstrates a large, well-defined, extra-axial mass lesion located in the right frontal region. The lesion appears hyperintense relative to cerebral cortex and is associated with significant surrounding edema. There is evidence of midline shift, indicating mass effect. No obvious intracranial hemorrhage is noted. Further evaluation with contrast-enhanced sequences and additional imaging planes is recommended to characterize the lesion further and assess for potential vascular or neoplastic etiology.",
+    "llm_score": 2
+  },
+  {
+    "case_id": "case0088",
+    "image": "case0088_001.png",
+    "ground_truth": "Axial DWI high b-value. Difussion restriction is demonstrated.",
+    "prediction": "The provided image appears to be an axial slice from a brain MRI scan, likely T2-weighted due to the high signal intensity of cerebrospinal fluid (CSF). The cerebral hemispheres are symmetrically displayed with visible sulci and gyri. There is no evident midline shift, mass effect, or acute hemorrhage. However, there is a noticeable area of hyperintensity in the left frontal lobe, which may indicate gliosis, demyelination, or a previous ischemic event. Further evaluation with additional sequences and clinical correlation is recommended to determine the exact nature of this finding.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0088",
+    "image": "case0088_002.png",
+    "ground_truth": "ADC map displays low ADC.",
+    "prediction": "The provided image appears to be an axial slice from a brain MRI scan, likely a T2-weighted sequence. The cerebral hemispheres are symmetrically displayed with normal sulci and gyri patterns. There is no evident midline shift, mass effect, or acute hemorrhage. However, there is a subtle area of increased signal intensity in the left frontal lobe, which may represent a small focal lesion, possibly indicative of gliosis, edema, or other pathology. Further evaluation with additional sequences (e.g., FLAIR, DWI) and clinical correlation is recommended to characterize this finding accurately. The ventricles and surrounding structures appear within normal limits.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0088",
+    "image": "case0088_003.png",
+    "ground_truth": "The tumour shows iso-signal intensity on T2WI",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates symmetrical gyral and sulcal patterns with no gross structural abnormalities. The ventricles appear normal in size and shape, without evidence of hydrocephalus. There is no visible mass effect, midline shift, or acute hemorrhage. The parenchyma shows no focal areas of hyperintensity suggestive of acute infarction or inflammation. The subarachnoid spaces and cisterns appear unremarkable. Overall, this image appears within normal limits, though further clinical correlation and additional sequences may be necessary for a comprehensive evaluation.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0034",
+    "image": "case0034_003.png",
+    "ground_truth": "A well-defined midline abnormal signal intensity area appearing hyperintense on T2W sequence.",
+    "prediction": "This axial MRI image of the brain demonstrates a well-defined, large, hyperintense mass occupying the posterior fossa, compressing the surrounding cerebellar structures. The lesion appears to have a heterogeneous texture with areas of increased signal intensity, suggestive of necrosis or cystic changes. There is evidence of significant mass effect, with displacement of the fourth ventricle and potential obstruction leading to hydrocephalus. The optic nerves and globes appear unremarkable. Further evaluation with contrast-enhanced imaging and clinical correlation is recommended to determine the exact nature and extent of the pathology.",
+    "llm_score": 2
+  },
+  {
+    "case_id": "case0034",
+    "image": "case0034_004.png",
+    "ground_truth": "A large midline abnormal signal intensity area partial suppression on Flair sequence giving \"dirty CSF\" appearance.",
+    "prediction": "The provided image appears to be an axial T2-weighted MRI scan of the brain. Notably, there is a large, well-defined, round lesion with high signal intensity located in the left temporal lobe, which could represent a cystic structure, abscess, or other fluid-filled mass. The surrounding brain parenchyma shows no significant edema or mass effect. The ventricles and midline structures appear unremarkable, and there is no evidence of acute hemorrhage. Further evaluation with contrast-enhanced imaging and clinical correlation is recommended to characterize the nature of this lesion accurately.",
+    "llm_score": 2
+  },
+  {
+    "case_id": "case0034",
+    "image": "case0034_001.png",
+    "ground_truth": "A large infratentorial midline abnormal signal intensity area appearing hypointense on T1W  sequence showing typical \"dirty CSF\" appearance.",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates a large, well-defined, hyperintense lesion occupying the left cerebellar hemisphere, extending into the fourth ventricle with associated mass effect. There is evidence of compression of the adjacent brainstem structures. The lesion appears heterogeneous, suggesting possible cystic components or necrosis. No significant midline shift is observed. The remaining cerebral hemispheres, ventricular system, and extra-axial spaces appear unremarkable. Further evaluation with contrast-enhanced imaging is recommended to characterize the lesion further.",
+    "llm_score": 2
+  },
+  {
+    "case_id": "case0034",
+    "image": "case0034_002.png",
+    "ground_truth": "No enhancement on post-Gadolinium sequences.",
+    "prediction": "This axial MRI image of the brain demonstrates a large, well-defined, hypointense mass occupying the posterior fossa, compressing the surrounding cerebellar structures. The lesion appears to have a cystic component with a solid enhancing portion, suggestive of a possible neoplastic process such as a medulloblastoma or ependymoma. There is evidence of mass effect with displacement of adjacent brain tissue. No acute hemorrhage or significant edema is apparent. Further evaluation with contrast-enhanced imaging and clinical correlation is recommended for definitive diagnosis.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0034",
+    "image": "case0034_005.png",
+    "ground_truth": "Dilated lateral ventricle",
+    "prediction": "The provided image appears to be an axial view MRI scan of the brain and upper cervical spine. Notably, there is a large, well-defined hypointense mass occupying the posterior fossa, extending into the fourth ventricle and compressing surrounding structures. This mass likely represents a cerebellar lesion, possibly a tumor such as a medulloblastoma or ependymoma. There is evidence of hydrocephalus, indicated by the dilation of the lateral ventricles due to obstruction of cerebrospinal fluid flow. The brainstem appears compressed and displaced anteriorly. No acute hemorrhage is evident within the lesion. Further evaluation with contrast-enhanced imaging and clinical correlation is recommended for definitive diagnosis.",
+    "llm_score": 3
+  },
+  {
+    "case_id": "case0005",
+    "image": "case0005_003.png",
+    "ground_truth": "T2 weighted MR axial sections through brain revealed  bilateral symmetrical hyperintense basal ganglia",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates symmetrical cerebral hemispheres with normal sulci and gyri. The ventricular system appears unremarkable, with no evidence of hydrocephalus. There is no acute hemorrhage, midline shift, or mass effect noted. The basal ganglia, thalami, and cerebellum appear within normal limits. Notably, there is a small focal area of hyperintensity in the left frontal lobe, which may represent a benign finding such as a small vessel ischemic change; however, further evaluation with additional sequences (e.g., FLAIR) is recommended to characterize this lesion fully. Overall, the image shows no significant acute intracranial pathology.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0005",
+    "image": "case0005_001.png",
+    "ground_truth": "T1 hyperintense signals in bilateral basal ganglia",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates prominent bilateral lateral ventricles with increased signal intensity, suggestive of hydrocephalus. There is no evident midline shift or acute hemorrhage. The cerebral parenchyma appears diffusely thinned, indicating possible atrophy. Further evaluation with additional sequences and clinical correlation is recommended to confirm these findings and assess for underlying etiologies.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0005",
+    "image": "case0005_002.png",
+    "ground_truth": "T2* image through brain showing drop out signals in bilateral basal ganglia, corresponding to calcifications seen on CT",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates a well-defined area of hyperintensity in the right temporal lobe, suggestive of an acute or subacute infarct or possibly an abscess. There is associated surrounding edema with mild mass effect. The ventricles appear unremarkable, and there is no evidence of midline shift. Further evaluation with contrast-enhanced imaging may be necessary to characterize the lesion further. The rest of the cerebral parenchyma appears within normal limits.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0080",
+    "image": "case0080_006.png",
+    "ground_truth": "Axial T2-weighted image showing hyperintensity in bilateral cerebral penducles.",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates symmetrical cerebral hemispheres with normal sulci and gyri. The ventricular system appears unremarkable, with no evidence of hydrocephalus. There is no acute hemorrhage or significant midline shift. Notably, there is increased signal intensity within the bilateral basal ganglia, particularly the globus pallidus, which may suggest a metabolic disorder such as Wilson's disease or Fahr's syndrome. Further clinical correlation and additional imaging sequences are recommended for definitive diagnosis.",
+    "llm_score": 2
+  },
+  {
+    "case_id": "case0080",
+    "image": "case0080_002.png",
+    "ground_truth": "Axial FLAIR image depicting hyperintensity in the basal ganglia.",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates symmetrical hyperintensities within the bilateral basal ganglia, particularly prominent in the globus pallidus regions. These findings may suggest metabolic or toxic encephalopathy, such as Wilson's disease, manganese toxicity, or other conditions affecting iron metabolism. The cerebral cortex, white matter, and ventricular system appear unremarkable without evidence of acute infarction, hemorrhage, or mass effect. Further clinical correlation and laboratory investigations are recommended for definitive diagnosis.",
+    "llm_score": 4
+  },
+  {
+    "case_id": "case0080",
+    "image": "case0080_003.png",
+    "ground_truth": "Axial FLAIR image showing hyperintensity in the brainstem.",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates symmetrical cerebral hemispheres with normal sulci and gyri. The ventricular system appears unremarkable, with no evidence of hydrocephalus. There is no acute hemorrhage, mass effect, or midline shift observed. The deep gray matter structures, including the basal ganglia and thalami, appear intact without any focal lesions. The cerebellum and brainstem show normal signal intensity and morphology. No significant abnormalities are identified on this particular slice; however, further evaluation of the entire MRI series is recommended for comprehensive assessment.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0080",
+    "image": "case0080_004.png",
+    "ground_truth": "Axial gadolinium-enhanced T1-weighted image showing mild peripheral enhancement of the lentiform nuclei.",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates symmetrical cerebral hemispheres with normal sulci and gyri. The ventricular system appears unremarkable, with no evidence of hydrocephalus. Notably, there are multiple hyperintense lesions scattered throughout both cerebral hemispheres, which may represent areas of gliosis, demyelination, or other pathology. These lesions are predominantly periventricular and subcortical in location. There is no apparent midline shift or mass effect. Further evaluation with contrast-enhanced imaging and clinical correlation is recommended to determine the nature of these findings.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0080",
+    "image": "case0080_005.png",
+    "ground_truth": "Coronal gadolinium-enhanced T1-weighted image showing peripheral enhancement of the lentiform nuclei.",
+    "prediction": "The provided image is an axial T1-weighted MRI scan of the brain. The cerebral parenchyma demonstrates normal sulci and gyri patterns with no evident mass effect, midline shift, or hemorrhage. The ventricular system appears unremarkable without signs of hydrocephalus. There is a noticeable hyperintense signal within the pituitary gland, which may suggest a pituitary adenoma or other pathology affecting this region. Further evaluation with contrast-enhanced imaging and clinical correlation is recommended to confirm the diagnosis and assess for any additional findings. No other significant abnormalities are immediately apparent.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0080",
+    "image": "case0080_001.png",
+    "ground_truth": "ADC map showing hyperintense lesions in globus pallidi, sign of chronicity.",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates symmetrical hyperintensities within the bilateral basal ganglia, particularly the globus pallidus, which may suggest a metabolic disorder such as Wilson's disease or Fahr's syndrome. There is no evidence of acute infarction, hemorrhage, or mass effect. The ventricles and sulci appear normal without signs of hydrocephalus or atrophy. Further clinical correlation and additional imaging sequences are recommended for a definitive diagnosis.",
+    "llm_score": 3
+  },
+  {
+    "case_id": "case0150",
+    "image": "case0150_001.png",
+    "ground_truth": "MRI T1WI axial image shows hyperintense signal intensity involving right caudate nucleus and putamen.",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates symmetrical lateral ventricles with no apparent midline shift. The cerebral parenchyma appears grossly normal without evidence of acute infarction, hemorrhage, or mass effect. There is no significant signal abnormality within the white matter or gray matter structures. The sulci and gyri appear appropriately visualized, and there is no sign of edema or inflammation. Overall, this image shows no acute intracranial pathology; however, further clinical correlation and additional sequences may be necessary for a comprehensive evaluation.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0150",
+    "image": "case0150_002.png",
+    "ground_truth": "MRI T2WI axial image show hypointense signal intensity involving right caudate nucleus and putamen.",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates normal cerebral anatomy with no gross structural abnormalities. The sulci and gyri appear symmetrically distributed, and there is no evidence of midline shift. The lateral ventricles are within normal size limits, and there is no apparent hydrocephalus. The corpus callosum and other deep brain structures appear intact. There are no focal lesions, masses, or areas of abnormal signal intensity suggestive of infarction, hemorrhage, or inflammation. The cerebellum and brainstem also appear unremarkable. Overall, this image shows a structurally normal brain without any significant pathological findings.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0150",
+    "image": "case0150_003.png",
+    "ground_truth": "FLAIR axial image show hypointense signal intensity involving right caudate nucleus and putamen.",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates normal cerebral parenchyma with no acute intracranial hemorrhage, mass effect, or midline shift. The ventricular system appears unremarkable without evidence of hydrocephalus. There is a small, focal area of hyperintensity within the right thalamus, which may represent a benign finding such as a small vessel ischemic change or gliosis; however, further clinical correlation and comparison with prior imaging studies are recommended for definitive characterization. No other significant abnormalities are noted.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0150",
+    "image": "case0150_004.png",
+    "ground_truth": "ADC images shows no evidence of diffusion restriction.",
+    "prediction": "The provided image appears to be an axial slice from a diffusion-weighted imaging (DWI) MRI of the brain. There is a notable area of hyperintensity in the left parietal lobe, which may indicate restricted diffusion suggestive of acute ischemic stroke. The surrounding brain parenchyma demonstrates normal signal intensity without evidence of hemorrhage or mass effect. Further evaluation with additional MRI sequences and clinical correlation is recommended to confirm the diagnosis and assess the extent of involvement.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0127",
+    "image": "case0127_001.png",
+    "ground_truth": "T2-weighted axial MRI demonstrates symmetric hyperintense signals in the putamen, and thalami.",
+    "prediction": "The provided image is an axial T2-weighted MRI of the brain. The cerebral parenchyma demonstrates normal sulci and gyri patterns with no evident midline shift. There is a small, well-defined hyperintense lesion noted within the left frontal lobe, which may represent a benign finding such as a porencephalic cyst or a small area of gliosis. No acute hemorrhage, mass effect, or significant edema is observed. The ventricular system appears unremarkable, and there is no evidence of hydrocephalus. Further clinical correlation and additional imaging sequences may be necessary to characterize the noted lesion fully.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0127",
+    "image": "case0127_002.png",
+    "ground_truth": "T2-weighted axial MRI demonstrates the \u201cface of the giant panda\u201d in the midbrain with high signal in tegmentum and normal red nuclei.",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates symmetrical cerebral hemispheres with normal sulci and gyri. The ventricular system appears unremarkable without evidence of hydrocephalus. Notably, there is a well-defined area of hyperintensity within the left temporal lobe, suggestive of gliosis or a chronic lesion. No acute hemorrhage or mass effect is observed. The orbits, extraocular muscles, and optic nerves appear intact. Further evaluation with contrast-enhanced sequences may be warranted to characterize the nature of the hyperintense lesion.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0127",
+    "image": "case0127_003.png",
+    "ground_truth": "T2-weighted axial MRI reveals the \u201cface of the miniature panda\u201d in pons with hypointensity of central tegmental tracts with hyper intensity of periaqueductal opening to fourth ventricle.",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates symmetrical high signal intensity within the globus pallidus bilaterally, which may suggest a metabolic or toxic encephalopathy such as Wilson's disease, manganese toxicity, or other conditions affecting iron metabolism. There is no evidence of acute infarction, hemorrhage, or mass effect. The ventricles and sulci appear normal without signs of hydrocephalus or atrophy. Further clinical correlation and laboratory investigations are recommended for definitive diagnosis.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0275",
+    "image": "case0275_001.png",
+    "ground_truth": "Polymicrogyria. Axial (4a) and sagittal (4b) T1-weighted images show bilateral perisylvian polymicrogyria with insular and frontoparietal involvement, more extensive on the right side. The sylvian fissures extend superiorly, beyond their typical anatomic location.",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates a large, well-defined area of hyperintensity within the central portion of the image, corresponding to the lateral ventricles, which appear significantly enlarged. This finding suggests hydrocephalus, characterized by an abnormal accumulation of cerebrospinal fluid (CSF). The surrounding brain parenchyma appears compressed due to the expansion of the ventricular system. No acute hemorrhage or focal lesions are evident. Further evaluation with additional sequences and clinical correlation is recommended to determine the underlying cause and appropriate management.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0275",
+    "image": "case0275_002.png",
+    "ground_truth": "Polymicrogyria. Axial (4a) and sagittal (4b) T1-weighted images show bilateral perisylvian polymicrogyria with insular and frontoparietal involvement, more extensive on the right side. The sylvian fissures extend superiorly, beyond their typical anatomic location.",
+    "prediction": "The provided image is an axial T1-weighted MRI scan of the brain. The cerebral cortices exhibit normal gyral and sulcal patterns. There is no evidence of acute intracranial hemorrhage, midline shift, or mass effect. The ventricular system appears unremarkable without signs of hydrocephalus. The brainstem and cerebellum show no obvious abnormalities. No focal lesions or areas of abnormal signal intensity are readily apparent. Overall, the image suggests a structurally normal brain with no immediate pathological findings. Further clinical correlation and additional sequences may be necessary for a comprehensive evaluation.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0274",
+    "image": "case0274_001.png",
+    "ground_truth": "MRI DWI and ADC images showing cortical diffusion restriction in bilateral insular and cingulate gyrus (R > L) with infarct in the right posterior limb of the internal capsule.",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates a hyperintense lesion within the right thalamus, which appears well-defined and focal. There is no evident mass effect or midline shift. The surrounding parenchyma shows no significant edema. The ventricles appear normal in size and shape, with no signs of hydrocephalus. The cortical and subcortical structures bilaterally exhibit normal signal intensity without additional lesions. Further evaluation with contrast-enhanced imaging may be warranted to characterize the nature of the thalamic lesion.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0274",
+    "image": "case0274_002.png",
+    "ground_truth": "MRI FLAIR and T2 images, axial, coronal and sagittal sections showing hyperintensity and cortical swelling in bilateral inferior frontal and mesiotemporal regions (R > L).",
+    "prediction": "The provided image appears to be an axial T1-weighted MRI scan of the brain. Notably, there is a large, well-defined, hypointense mass occupying the right temporal lobe, extending into the insular region. This lesion demonstrates heterogeneous signal intensity with areas of hyperintensity suggestive of possible calcification or hemorrhage. There is significant mass effect with compression of adjacent brain structures, including displacement of the midline structures to the left. Surrounding edema is evident, contributing to the overall mass effect. No acute intracranial hemorrhage is identified outside the lesion. Further evaluation with contrast-enhanced imaging and additional sequences may be necessary to characterize the lesion further and assess for vascular supply or enhancement patterns.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0043",
+    "image": "case0043_001.png",
+    "ground_truth": "FLAIR axial image showing hyperintensities in deep periventricular white matter bilaterally with small hypointense cysts within affected white matter.",
+    "prediction": "This axial T1-weighted MRI image with contrast demonstrates a well-defined, heterogeneously enhancing lesion located in the right parieto-occipital region. The lesion exhibits areas of central hypointensity, suggestive of necrosis or cystic change, surrounded by a rim of enhancement. There is associated vasogenic edema in the surrounding brain parenchyma, as evidenced by subtle hypointensity. No significant mass effect or midline shift is observed. The ventricular system appears unremarkable. Further evaluation with additional sequences and clinical correlation is recommended to determine the nature of this lesion.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0043",
+    "image": "case0043_002.png",
+    "ground_truth": "FLAIR axial image showing hyperintensities in deep periventricular white matter bilaterally with small hypointense cysts within affected white matter.",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates multiple hyperintense lesions scattered throughout both cerebral hemispheres, predominantly within the white matter. These lesions appear consistent with demyelinating disease, such as multiple sclerosis. There is no evidence of acute hemorrhage, midline shift, or mass effect. The ventricles and sulci appear unremarkable. Further clinical correlation and additional imaging sequences are recommended for a comprehensive evaluation.",
+    "llm_score": 3
+  },
+  {
+    "case_id": "case0043",
+    "image": "case0043_005.png",
+    "ground_truth": "T2W axial image showing  hyperintensities in deep periventricular white matter with small hyperintense cysts.",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates normal sulcal and gyral patterns with no evidence of acute intracranial hemorrhage, mass effect, midline shift, or focal lesions. The ventricles appear symmetric and within normal limits. There is no apparent abnormal signal intensity suggestive of edema, infarction, or demyelination. The parenchyma shows no signs of atrophy. Overall, this image appears unremarkable without any significant abnormalities identified.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0043",
+    "image": "case0043_003.png",
+    "ground_truth": "T1W axial image showing  hypointense cysts in deep periventricular white matter.",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates multiple small, hyperintense lesions scattered throughout both cerebral hemispheres, predominantly within the white matter. These lesions are consistent with areas of demyelination, suggestive of conditions such as multiple sclerosis. There is no evidence of acute hemorrhage, mass effect, midline shift, or significant structural abnormalities. The ventricles and sulci appear unremarkable. Further clinical correlation and additional imaging sequences may be necessary for a definitive diagnosis.",
+    "llm_score": 2
+  },
+  {
+    "case_id": "case0043",
+    "image": "case0043_004.png",
+    "ground_truth": "T1W sagittal image showing  hypointense cysts in deep periventricular white matter.",
+    "prediction": "This MRI image depicts a sagittal view of the brain and skull. The cerebral cortex appears generally normal with no gross structural abnormalities noted. However, there is evidence of a large, well-defined mass lesion located within the posterior fossa, extending into the fourth ventricle and compressing surrounding structures. This mass likely represents a neoplastic process, such as a medulloblastoma or ependymoma, though further imaging and clinical correlation are necessary for definitive diagnosis. There is no apparent midline shift or significant edema at this level. The bony structures of the skull appear intact without signs of fracture or erosion. Additional sequences and clinical history are required for comprehensive evaluation.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0212",
+    "image": "case0212_001.png",
+    "ground_truth": "Axial FLAIR presented bilateral hyperintensities of the frontoparietal and temporal subcortical WM, (c) more pronounced on the right in the latter. (d) Axial T2WI with hyperintensity of posterior periventricular WM bilaterally",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates several areas of hyperintensity within the white matter bilaterally, predominantly in the periventricular regions. These findings are suggestive of small vessel ischemic disease or demyelinating lesions. There is no evidence of acute hemorrhage, mass effect, midline shift, or focal structural abnormalities such as tumors or abscesses. The ventricles and sulci appear within normal limits. Further clinical correlation and additional imaging sequences may be necessary for a definitive diagnosis.",
+    "llm_score": 3
+  },
+  {
+    "case_id": "case0212",
+    "image": "case0212_002.png",
+    "ground_truth": "Axial FLAIR presented bilateral hyperintensities of the frontoparietal and temporal subcortical WM, (c) more pronounced on the right in the latter. (d) Axial T2WI with hyperintensity of posterior periventricular WM bilaterally",
+    "prediction": "This axial T1-weighted MRI image of the brain demonstrates normal anatomical structures with no gross abnormalities. The cerebral hemispheres, ventricles, and midline structures appear symmetrical. There is no evidence of acute hemorrhage, mass effect, or midline shift. The sulci and gyri are within normal limits, and there are no focal lesions or areas of abnormal signal intensity. The visualized portions of the brainstem and cerebellum also appear unremarkable. Overall, this image suggests a structurally normal brain without any significant pathological findings.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0212",
+    "image": "case0212_003.png",
+    "ground_truth": "Axial T2WI demonstrated hyperintensity of the globi pallidi, and a linear hyperintensity contouring the borders of both putamen and the head of the caudate nucleus",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates symmetrical cerebral hemispheres with normal sulci and gyri. The ventricular system appears unremarkable, with no evidence of hydrocephalus. There is no acute hemorrhage or significant midline shift. Notably, there are areas of increased signal intensity within the periventricular white matter bilaterally, suggestive of gliosis or demyelination. The cerebellum and brainstem appear intact without any focal lesions. Overall, the image suggests possible chronic microvascular ischemic changes but no acute pathology. Further clinical correlation and additional imaging sequences may be necessary for a comprehensive evaluation.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0212",
+    "image": "case0212_004.png",
+    "ground_truth": "Increased diffusivity on DWI of the globi pallidi and dentate nucleus with elevation of ADC",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates symmetrical cerebral hemispheres with normal sulci and gyri. The ventricular system appears unremarkable without evidence of hydrocephalus. There is no acute hemorrhage or significant mass effect observed. Notably, there are multiple small, hyperintense foci within the white matter bilaterally, suggestive of chronic microvascular ischemic changes or gliosis. These findings may correlate with small vessel disease. No acute infarcts or neoplastic processes are readily apparent. Further clinical correlation and additional imaging sequences may be necessary for a comprehensive evaluation.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0113",
+    "image": "case0113_001.png",
+    "ground_truth": "T1W axial image shows a well defined hyperintense lesion in right frontal region.",
+    "prediction": "The provided MRI image appears to be an axial T1-weighted sequence of the brain. Notably, there is a hyperintense lesion located in the right frontal lobe, which may represent a focal abnormality such as a tumor, abscess, or other pathology. The surrounding parenchyma does not show significant edema or mass effect at this slice level. The rest of the cerebral hemispheres, ventricular system, and midline structures appear grossly unremarkable. Further evaluation with additional sequences (e.g., T2, FLAIR, DWI) and clinical correlation is recommended to characterize the nature of the observed lesion.",
+    "llm_score": 4
+  },
+  {
+    "case_id": "case0113",
+    "image": "case0113_002.png",
+    "ground_truth": "T2W axial image shows a well defined mixed signal intensity lesion in right frontal region with surrounding hemosiderin rim.",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates a well-defined area of hyperintensity in the left frontal lobe, suggestive of a focal lesion. The surrounding parenchyma appears unremarkable without evidence of significant edema or mass effect. No acute hemorrhage is noted. The ventricles and midline structures appear normal, with no signs of hydrocephalus or shift. Further evaluation with contrast-enhanced imaging may be warranted to characterize the nature of this lesion more definitively.",
+    "llm_score": 2
+  },
+  {
+    "case_id": "case0113",
+    "image": "case0113_003.png",
+    "ground_truth": "T2W axial image shows a well defined mixed signal intensity lesion in left cerebellar hemisphere showing peripheral hypointense hemosiderin rim",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates a well-defined, hyperintense lesion within the left cerebellar hemisphere, suggestive of an acute or subacute infarct. The lesion appears to involve the cerebellar cortex and underlying white matter. There is no evidence of significant mass effect, midline shift, or hemorrhage. The surrounding cerebellar parenchyma and other intracranial structures appear unremarkable. Further clinical correlation and additional imaging sequences may be necessary for definitive diagnosis.",
+    "llm_score": 2
+  },
+  {
+    "case_id": "case0106",
+    "image": "case0106_003.png",
+    "ground_truth": "T2 axial scan shows heterogeneously hypointense lesion involving pons predominantly on left side, with surrounding hyperintensity due to oedema. The lesion posteriorly causes narrowing of fourth ventricle.",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates a well-defined, heterogeneous lesion located within the right cerebellar hemisphere. The lesion exhibits areas of increased signal intensity, suggesting possible edema or necrosis, with surrounding mass effect compressing adjacent cerebellar structures. There is no evident midline shift. The fourth ventricle appears slightly distorted but not significantly compressed. Bilateral temporal lobes and other intracranial structures appear unremarkable. Further evaluation with contrast-enhanced imaging may be necessary to characterize the lesion further.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0106",
+    "image": "case0106_004.png",
+    "ground_truth": "On FLAIR sequence the lesion appears hypo to isointense with internal hypointense area. Surrounding area of both cerebellar hemisphere also appears hyperintense due to perilesional oedema.",
+    "prediction": "The provided image appears to be an axial T2-weighted MRI scan of the brain. Notably, there is a well-defined, hyperintense lesion located centrally within the pons, which may represent a glioma, demyelinating disease, or other pathology. The surrounding brain parenchyma demonstrates no significant edema or mass effect. The cerebellum, temporal lobes, and other adjacent structures appear grossly unremarkable without evidence of hemorrhage, infarction, or acute trauma. Further clinical correlation and additional imaging sequences are recommended for definitive diagnosis.",
+    "llm_score": 2
+  },
+  {
+    "case_id": "case0106",
+    "image": "case0106_001.png",
+    "ground_truth": "On postcontrast T1 fat sat scan ring-enhancing lesion is seen involving pons predominantly on left side.",
+    "prediction": "This axial T1-weighted MRI image of the brain demonstrates a well-defined, hyperintense lesion located within the right cerebellar hemisphere. The lesion appears to have a homogenous signal intensity and is surrounded by a subtle area of hypointensity, suggestive of edema. There is no evident mass effect or midline shift. The surrounding brain parenchyma, ventricular system, and extra-axial spaces appear unremarkable. Further evaluation with contrast-enhanced sequences and additional imaging modalities may be necessary to characterize the lesion further.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0106",
+    "image": "case0106_002.png",
+    "ground_truth": "Postcontrast T1 iso 3D sequence also shows ring-enhancing lesion.",
+    "prediction": "This axial MRI image demonstrates a well-defined, hyperintense lesion located centrally within the brainstem, likely involving the pons. The lesion appears to have a homogenous texture with no evident surrounding edema. The adjacent structures, including the cerebellum and temporal lobes, appear unremarkable without signs of compression or displacement. The orbits, nasal cavity, and surrounding bony structures show no abnormalities. Further evaluation with contrast-enhanced imaging may be necessary to characterize the lesion further.",
+    "llm_score": 2
+  },
+  {
+    "case_id": "case0208",
+    "image": "case0208_001.png",
+    "ground_truth": "No abnormal enhancement was seen in the post-contrast T1 FSE sequence.",
+    "prediction": "The provided image is an axial view MRI scan of the brain. Upon initial observation, there appears to be a large, well-defined mass occupying the central region of the brain, likely within the sellar or suprasellar area. This mass exhibits heterogeneous signal intensity and seems to extend into the surrounding structures, potentially compressing adjacent neural tissues. There is evidence of midline shift, indicating possible mass effect. The ventricles appear to be displaced, and there may be associated edema. Further evaluation with contrast-enhanced imaging and additional sequences would be necessary to characterize the lesion more precisely and determine its nature, such as a pituitary adenoma, craniopharyngioma, or other intracranial pathology.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0070",
+    "image": "case0070_001.png",
+    "ground_truth": "Day 0. Interval evolution of haemorrhage of the dorsal pons, a slightly\neccentric to the right.",
+    "prediction": "This axial T1-weighted MRI image of the brain demonstrates a large, well-defined, homogeneously hypointense mass occupying the left temporal lobe, extending into the left lateral ventricle with associated midline shift. There is significant mass effect with compression of adjacent brain structures. No obvious enhancement is noted within the lesion. The contralateral hemisphere appears unremarkable. Further evaluation with contrast-enhanced imaging and additional sequences is recommended to characterize the lesion further.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0070",
+    "image": "case0070_002.png",
+    "ground_truth": "Day 30. Interval evolution of haemorrhage of the dorsal pons, a slightly\neccentric to the right.",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates a well-defined, hyperintense lesion within the right cerebellar hemisphere, suggestive of an acute or subacute infarct. There is no apparent midline shift or significant mass effect. The surrounding parenchyma appears edematous. The rest of the cerebral hemispheres, brainstem, and cerebellum appear unremarkable without evidence of hemorrhage, mass lesions, or other acute abnormalities. Further clinical correlation and additional imaging sequences are recommended for comprehensive evaluation.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0070",
+    "image": "case0070_003.png",
+    "ground_truth": "Day 120. Interval evolution of haemorrhage of the dorsal pons, a slightly\neccentric to the right.",
+    "prediction": "This axial T1-weighted MRI image of the brain demonstrates a well-defined, homogeneously hyperintense lesion located within the left temporal lobe. The lesion appears to have a rounded morphology with clear margins, suggesting a possible neoplastic process such as a meningioma or a metastasis. There is no evident mass effect or midline shift observed. The surrounding brain parenchyma shows normal signal intensity without signs of edema. Further evaluation with contrast-enhanced imaging and additional sequences is recommended to characterize the lesion further and assess for any associated vascular or inflammatory changes.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0070",
+    "image": "case0070_011.png",
+    "ground_truth": "Day 0. Interval evolution of haemorrhage of the dorsal pons.",
+    "prediction": "This sagittal T1-weighted MRI image of the brain demonstrates normal anatomical structures including the cerebral hemispheres, cerebellum, brainstem, and spinal cord. There is no evidence of acute intracranial hemorrhage, midline shift, or mass effect. The ventricular system appears unremarkable without signs of hydrocephalus. The pituitary gland and surrounding sellar region appear within normal limits. No focal lesions or abnormalities are identified in the visualized portions of the brain parenchyma. The nasal cavity and sinuses are also visible, with no apparent pathology noted. Overall, this image shows no significant abnormalities.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0070",
+    "image": "case0070_008.png",
+    "ground_truth": "Day 30. Interval evolution of haemorrhage of the dorsal pons.",
+    "prediction": "The provided image appears to be an axial slice from a brain MRI scan. The cerebral parenchyma demonstrates normal gyral and sulcal patterns without evidence of acute hemorrhage, mass effect, or midline shift. There is no apparent abnormal signal intensity suggestive of infarction or inflammation. The ventricular system appears unremarkable, with no signs of hydrocephalus. The skull and surrounding soft tissues show no obvious fractures or abnormalities. Overall, this slice does not reveal any significant intracranial pathology. Further evaluation with additional slices and sequences would be necessary for a comprehensive assessment.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0070",
+    "image": "case0070_009.png",
+    "ground_truth": "Day 120. Interval evolution of haemorrhage of the dorsal pons.",
+    "prediction": "This MRI image appears to be a sagittal view of the brain and upper cervical spine. The cerebral hemispheres, cerebellum, and brainstem are visualized. There is no obvious midline shift or gross structural abnormality noted. The ventricular system appears normal without evidence of hydrocephalus. The sulci and gyri demonstrate normal patterns. No acute intracranial hemorrhage or mass lesion is apparent. The spinal cord at the visible levels shows no signs of compression or abnormal signal intensity. Further evaluation with additional sequences may be necessary for a comprehensive assessment.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0070",
+    "image": "case0070_010.png",
+    "ground_truth": "Day 270. Interval evolution of haemorrhage of the dorsal pons.",
+    "prediction": "The provided image is an axial T1-weighted MRI scan of the brain. The cerebral hemispheres, cerebellum, and brainstem are visualized with normal anatomical alignment. There appears to be a hyperintense signal abnormality within the corpus callosum, which may suggest demyelination, gliosis, or other pathological processes. No acute hemorrhage or gross structural abnormalities such as masses or midline shifts are evident. Further evaluation with additional sequences (e.g., FLAIR, DWI) is recommended to characterize the nature of the observed signal change.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0070",
+    "image": "case0070_004.png",
+    "ground_truth": "Day 270. Interval\ndevelopment of an expansile lesion of the right medullary olive.",
+    "prediction": "The provided image is an axial T2-weighted MRI scan of the brain. The cerebral parenchyma demonstrates normal gyral and sulcal patterns bilaterally. There is no evidence of acute intracranial hemorrhage, midline shift, or mass effect. The ventricular system appears unremarkable without signs of hydrocephalus. However, there is a subtle area of increased signal intensity within the left temporal lobe, which may represent gliosis, edema, or other pathology. Further evaluation with additional sequences (e.g., FLAIR, DWI) and clinical correlation is recommended to characterize this finding accurately. No other significant abnormalities are noted.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0070",
+    "image": "case0070_005.png",
+    "ground_truth": "Day 270. Interval\ndevelopment of an expansile lesion of the right medullary olive.",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates symmetrical hyperintensities within the bilateral basal ganglia, particularly prominent in the globus pallidus, suggesting possible iron deposition or a metabolic abnormality such as Wilson's disease or Fahr's syndrome. There is no evidence of acute infarction, hemorrhage, or mass effect. The ventricles and sulci appear unremarkable, with no signs of hydrocephalus or significant atrophy. Further clinical correlation and additional imaging sequences may be necessary for a definitive diagnosis.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0070",
+    "image": "case0070_006.png",
+    "ground_truth": "Day 270. Interval development of an expansile lesion of the right medullary olive.",
+    "prediction": "The provided image is an axial T2-weighted MRI scan of the brain. The cerebral parenchyma demonstrates normal sulci and gyri patterns bilaterally. The ventricular system appears unremarkable with no evidence of hydrocephalus. There is no acute intracranial hemorrhage, mass effect, midline shift, or focal lesions noted. The cerebellum and brainstem appear intact without any abnormalities. Overall, the image shows no significant pathological findings.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0070",
+    "image": "case0070_007.png",
+    "ground_truth": "Day 270. Interval development of an expansile lesion of the right medullary olive.",
+    "prediction": "The provided image is an axial T1-weighted MRI of the brain. The cerebral hemispheres demonstrate normal gyral and sulcal patterns with no evidence of acute hemorrhage, mass effect, or midline shift. The ventricular system appears unremarkable without signs of hydrocephalus. There is no obvious abnormal signal intensity within the parenchyma suggestive of infarction or demyelination. The corpus callosum, basal ganglia, thalami, and brainstem appear intact. No focal lesions or enhancing masses are identified. Overall, the image shows no significant abnormalities. Further clinical correlation and additional sequences may be necessary for comprehensive evaluation.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0012",
+    "image": "case0012_003.png",
+    "ground_truth": "Axial T2WI image showing an ill-defined hyperintensity in left centrum semiovale.\nNo definite mass effect is noted.",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates a large area of hyperintensity involving the left cerebral hemisphere, consistent with an acute or subacute infarct. The lesion appears to extend from the cortical surface into the underlying white matter, suggesting a significant vascular territory involvement. There is no evident midline shift or mass effect. The right cerebral hemisphere appears unremarkable. Further evaluation with additional sequences and clinical correlation is recommended to confirm the diagnosis and assess for any associated complications.",
+    "llm_score": 3
+  },
+  {
+    "case_id": "case0012",
+    "image": "case0012_004.png",
+    "ground_truth": "Axial  T1WI image  showing an ill-defined hypointensity in left centrum semiovale.\nNo definite mass effect is noted.",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates generally symmetric gyral and sulcal patterns. There is no evidence of acute intracranial hemorrhage, midline shift, or mass effect. The ventricles appear normal in size and configuration. Notably, there is a subtle area of increased signal intensity in the left frontal lobe, which may represent gliosis, demyelination, or other pathology; further evaluation with additional sequences (e.g., FLAIR, DWI) is recommended for characterization. The remainder of the parenchyma appears unremarkable.",
+    "llm_score": 2
+  },
+  {
+    "case_id": "case0012",
+    "image": "case0012_005.png",
+    "ground_truth": "Axial FLAIR image showing an ill-defined hyperintensity in left centrum semiovale.",
+    "prediction": "This axial T1-weighted MRI image of the brain demonstrates a large, well-defined, hypointense mass lesion occupying the left frontal lobe. The lesion appears to have caused significant mass effect with midline shift towards the right side. There is associated edema surrounding the mass, which is evident by the lighter gray signal intensity in the adjacent brain parenchyma. No obvious hemorrhagic components are noted within the lesion. Further evaluation with contrast-enhanced sequences and additional imaging modalities may be necessary to characterize the nature of this lesion more definitively.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0012",
+    "image": "case0012_006.png",
+    "ground_truth": "Coronal T2WI image showing an ill-defined hyperintensity in left centrum semiovale, periventricular and subcortical white matter. No definite mass effect is noted.",
+    "prediction": "This MRI image depicts a coronal view of the brain. Notably, there appears to be a significant abnormality characterized by an expansive area of hypointensity within the central region of the brain, suggestive of a large cystic lesion or hydrocephalus. The ventricular system is markedly dilated, indicating possible obstructive hydrocephalus. Surrounding brain parenchyma shows signs of compression and thinning. No acute hemorrhagic changes are evident. Further evaluation with contrast-enhanced imaging and clinical correlation is recommended to determine the nature and etiology of this finding.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0012",
+    "image": "case0012_001.png",
+    "ground_truth": "Diffusion-weighted image shows no definite rim of restriction, which was appreciated in the initial scans.",
+    "prediction": "The provided image appears to be an axial slice from a brain MRI scan. There is a noticeable area of hyperintensity in the left frontal lobe, which may indicate an abnormality such as edema, gliosis, or an acute lesion. The surrounding brain parenchyma shows normal sulci and gyri patterns without significant mass effect. Further evaluation with additional sequences (e.g., T1-weighted, FLAIR) and clinical correlation is necessary to determine the exact nature of this finding. No other overt abnormalities are immediately apparent in this single slice.",
+    "llm_score": 2
+  },
+  {
+    "case_id": "case0012",
+    "image": "case0012_002.png",
+    "ground_truth": "Axial T2/ FLAIR image shows reduction in the size and extent of the white matter signal alteration.",
+    "prediction": "The provided image is an axial T1-weighted MRI of the brain. The cerebral hemispheres demonstrate normal gyral and sulcal patterns with no evident mass effect, midline shift, or acute hemorrhage. The ventricular system appears unremarkable without signs of hydrocephalus. There are no obvious focal lesions, areas of abnormal signal intensity, or structural deformities. The subarachnoid spaces appear within normal limits. Overall, this image shows no significant abnormalities; however, further clinical correlation and additional sequences may be necessary for a comprehensive evaluation.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0200",
+    "image": "case0200_001.png",
+    "ground_truth": "Axial T2 - weighted image showed high signal of the pons",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates symmetrical signal intensity within the cerebral hemispheres, cerebellum, and brainstem. There is no evidence of acute intracranial hemorrhage, midline shift, or mass effect. The ventricular system appears normal without signs of hydrocephalus. Notably, there is increased signal intensity within the left temporal lobe, which may suggest edema, gliosis, or other pathology requiring further evaluation. The orbits and extraocular muscles appear unremarkable. No focal lesions are identified in the posterior fossa. Overall, the image shows a potential abnormality in the left temporal region that warrants clinical correlation and additional imaging sequences for definitive diagnosis.",
+    "llm_score": 2
+  },
+  {
+    "case_id": "case0247",
+    "image": "case0247_001.png",
+    "ground_truth": "On T2 weighted axial image, gross proximal hydrocephalus in form symmetrical dilatation of bilateral lateral ventricles and third ventricle due to compression over sylvian aqueduct",
+    "prediction": "This MRI image depicts a coronal view of the brain, highlighting significant ventriculomegaly with markedly enlarged lateral and third ventricles, indicative of hydrocephalus. There is notable thinning of the corpus callosum and compression of surrounding brain parenchyma. The cerebellar structures appear unremarkable. No acute hemorrhage or focal lesions are evident. Further evaluation is recommended to determine the underlying cause of the hydrocephalus.",
+    "llm_score": 4
+  },
+  {
+    "case_id": "case0255",
+    "image": "case0255_001.png",
+    "ground_truth": "Sagittal T2 Flair image showing a subcutaneous extracranial soft tissue mass with high signal intensity and internal vascular structures with low signal intensity, probably representing flow voids.",
+    "prediction": "The provided image is an axial T2-weighted MRI scan of the brain. The cerebral parenchyma demonstrates normal gyral and sulcal patterns bilaterally. There is no evidence of acute intracranial hemorrhage, midline shift, or mass effect. The ventricular system appears unremarkable without signs of hydrocephalus. The cerebellum and brainstem show normal signal intensity and morphology. No focal lesions, edema, or areas of abnormal enhancement are identified. Overall, the image appears within normal limits with no significant abnormalities detected.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0255",
+    "image": "case0255_002.png",
+    "ground_truth": "Non-contrast enhanced sagittal T1-weighted image showing a subcutaneous extracranial soft tissue mass with intermediate signal intensity.",
+    "prediction": "The provided image is an axial T1-weighted MRI scan of the brain. The cerebral hemispheres, cerebellum, and brainstem are visualized with normal anatomical structures apparent. There is no evidence of acute intracranial hemorrhage, mass effect, midline shift, or obvious structural abnormalities such as tumors or infarcts. The ventricular system appears unremarkable without signs of hydrocephalus. The sulci and gyri demonstrate normal patterns of cortical folding. Further evaluation may require additional sequences or clinical correlation for a comprehensive assessment.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0255",
+    "image": "case0255_003.png",
+    "ground_truth": "Contrast-enhanced sagittal T1-weighted image showing high signal intensity. There is contrast enhancement in parts of the lesion, indicating communication with the venous system. A communicating emissary vein can be seen passing from the lesion through the skull.",
+    "prediction": "The provided image is an axial T1-weighted MRI scan of the brain. Notably, there appears to be a hyperintense lesion located within the left frontal lobe, which may indicate a pathological process such as a tumor, abscess, or other focal abnormality. The surrounding brain parenchyma demonstrates no significant edema or mass effect. The ventricular system and midline structures appear unremarkable, with no evidence of hydrocephalus or shift. Further evaluation with contrast-enhanced imaging and additional sequences would be beneficial for a definitive diagnosis.",
+    "llm_score": 2
+  },
+  {
+    "case_id": "case0135",
+    "image": "case0135_001.png",
+    "ground_truth": "Initial brain MRI obtained 2 days after admission. Axial T2-weighted (A), T2-FLAIR weighted (B, C), diffusion-weighted (D)and contrast-enhanced T1-weighted (E, F) images. Observe the T2/FLAIR signal hyperintensity involving the brainstem, predominantly the pons, without restricted diffusivity, but with multiple associated patchy spot-like and curvilinear areas of contrast enhancement \u201cpeppering\u201d the pons with minimal extension into the middle cerebellar peduncles.",
+    "prediction": "The provided image is an axial T2-weighted MRI of the brain. It demonstrates symmetrical hyperintensities within the bilateral globus pallidus, which may suggest a metabolic or toxic encephalopathy, such as Wilson's disease or manganese toxicity. The cerebral cortex, cerebellum, and other subcortical structures appear unremarkable without evidence of acute infarction, hemorrhage, or mass effect. Further clinical correlation and laboratory investigations are recommended to confirm the diagnosis.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0135",
+    "image": "case0135_005.png",
+    "ground_truth": "Initial brain MRI obtained 2 days after admission. Axial T2-weighted (A), T2-FLAIR weighted (B, C), diffusion-weighted (D)and contrast-enhanced T1-weighted (E, F) images. Observe the T2/FLAIR signal hyperintensity involving the brainstem, predominantly the pons, without restricted diffusivity, but with multiple associated patchy spot-like and curvilinear areas of contrast enhancement \u201cpeppering\u201d the pons with minimal extension into the middle cerebellar peduncles.",
+    "prediction": "The provided axial MRI image demonstrates a well-defined, heterogeneously enhancing mass lesion located within the right cerebellar hemisphere. The lesion appears to displace surrounding brain structures, with possible compression of adjacent cerebellar tissue. There is no evident midline shift. The fourth ventricle appears patent without obstruction. No acute hemorrhage or significant edema is apparent. Further evaluation with contrast-enhanced sequences and additional imaging planes is recommended to characterize the lesion fully and assess for any associated vascular or perilesional changes.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0135",
+    "image": "case0135_006.png",
+    "ground_truth": "Initial brain MRI obtained 2 days after admission. Axial T2-weighted (A), T2-FLAIR weighted (B, C), diffusion-weighted (D)and contrast-enhanced T1-weighted (E, F) images. Observe the T2/FLAIR signal hyperintensity involving the brainstem, predominantly the pons, without restricted diffusivity, but with multiple associated patchy spot-like and curvilinear areas of contrast enhancement \u201cpeppering\u201d the pons with minimal extension into the middle cerebellar peduncles.",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates symmetrical signal intensity within the cerebral hemispheres, cerebellum, and brainstem. Notably, there appears to be a region of hyperintensity within the central pons, which may suggest an area of demyelination, gliosis, or edema. The surrounding structures, including the fourth ventricle and adjacent white matter, appear unremarkable without evidence of mass effect, hemorrhage, or acute infarction. Further clinical correlation and additional imaging sequences are recommended for definitive diagnosis.",
+    "llm_score": 2
+  },
+  {
+    "case_id": "case0135",
+    "image": "case0135_002.png",
+    "ground_truth": "Follow-up brain MRI obtained 10 days after steroid treatment. Axial T2-weighted (A), T2-FLAIR weighted (B), and contrast-enhanced T1-weighted (C) images. Partial resolution of the T2 signal abnormalities and contrast enhancemnet is observed.",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates a well-defined, hyperintense lesion within the left cerebellar hemisphere, suggestive of an acute or subacute infarct. There is no evidence of significant mass effect, midline shift, or hemorrhage. The surrounding cerebellar parenchyma appears unremarkable. The fourth ventricle is patent without compression. Further evaluation with contrast-enhanced sequences and diffusion-weighted imaging may be warranted to confirm the diagnosis and assess for additional pathology.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0135",
+    "image": "case0135_003.png",
+    "ground_truth": "Follow-up brain MRI obtained 10 days after steroid treatment. Axial T2-weighted (A), T2-FLAIR weighted (B), and contrast-enhanced T1-weighted (C) images. Partial resolution of the T2 signal abnormalities and contrast enhancemnet is observed.",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates a well-defined, hyperintense lesion occupying the left temporal lobe, extending into the insular cortex. The lesion appears to have a heterogeneous signal intensity with areas of increased brightness suggesting possible edema or necrosis. There is no evident mass effect or midline shift. The surrounding brain parenchyma shows normal signal characteristics without signs of acute hemorrhage. Further evaluation with contrast-enhanced sequences and additional imaging planes is recommended to characterize the lesion fully and assess for potential vascular or neoplastic etiologies.",
+    "llm_score": 2
+  },
+  {
+    "case_id": "case0135",
+    "image": "case0135_004.png",
+    "ground_truth": "Follow-up brain MRI obtained 10 days after steroid treatment. Axial T2-weighted (A), T2-FLAIR weighted (B), and contrast-enhanced T1-weighted (C) images. Partial resolution of the T2 signal abnormalities and contrast enhancemnet is observed.",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates symmetrical signal intensity within the cerebral hemispheres, cerebellum, and brainstem. Notably, there appears to be a well-defined, hyperintense lesion located centrally within the pons, which may represent an area of gliosis, demyelination, or other pathology such as a low-grade glioma. The surrounding brain parenchyma does not show significant edema or mass effect. Further evaluation with contrast-enhanced imaging and clinical correlation is recommended to characterize this finding more definitively. No acute hemorrhage or large vessel occlusion is evident.",
+    "llm_score": 2
+  },
+  {
+    "case_id": "case0018",
+    "image": "case0018_003.png",
+    "ground_truth": "MRI T2 coronal showing the intraventricular colloid cyst being hypointense compared to the cerebrospinal fluid.",
+    "prediction": "This MRI image depicts a coronal view of the brain. Notably, there appears to be a well-defined, rounded lesion located within the suprasellar region, likely involving the pituitary gland. The lesion demonstrates increased signal intensity compared to surrounding structures, suggesting it may be a cystic or fluid-filled mass. There is no evident midline shift or significant mass effect on adjacent brain structures. The cerebral hemispheres, ventricles, and other intracranial structures appear grossly unremarkable without signs of hemorrhage, edema, or acute infarction. Further evaluation with contrast-enhanced imaging and clinical correlation is recommended to characterize the nature of the observed lesion.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0018",
+    "image": "case0018_001.png",
+    "ground_truth": "MRI T1 transversal. The lesion is isointense to the cerebrum.",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates symmetrical lateral ventricles with no apparent midline shift. There is no evidence of acute intracranial hemorrhage, mass effect, or focal lesions. The cerebral parenchyma appears unremarkable without signs of edema or infarction. The sulci and gyri appear normal, and there is no significant atrophy noted. The subarachnoid spaces and cisterns appear patent. Overall, this image shows no acute abnormalities; however, further clinical correlation and additional sequences may be necessary for a comprehensive evaluation.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0018",
+    "image": "case0018_002.png",
+    "ground_truth": "MRI T1 post-contrast (7 ml Gadovist) \u2013 no enhancement of the lesion.",
+    "prediction": "This axial T1-weighted MRI image of the brain demonstrates normal cerebral parenchyma with no acute intracranial hemorrhage, mass effect, or midline shift. The ventricular system appears unremarkable without evidence of hydrocephalus. There are no focal lesions or areas of abnormal signal intensity suggestive of infarction, tumor, or infection. The sulci and gyri are within normal limits, and the subarachnoid spaces appear appropriately visualized. Overall, this image shows no significant abnormalities.",
+    "llm_score": 2
+  },
+  {
+    "case_id": "case0054",
+    "image": "case0054_001.png",
+    "ground_truth": "Axial diffusion-weighted image shows decrease in the signal intensity in the splenium of the corpus callosum.",
+    "prediction": "This axial diffusion-weighted MRI image shows a cross-sectional view of the brain. The cerebral cortex appears symmetrical with normal gyral and sulcal patterns. There is no evidence of acute ischemic stroke, hemorrhage, or mass effect. The ventricles and midline structures appear unremarkable. No focal areas of restricted diffusion are noted, suggesting no acute infarction. Overall, the image demonstrates no significant abnormalities.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0277",
+    "image": "case0277_001.png",
+    "ground_truth": "Pre-surgical MRI: The lesion appears hypointense on both the T1-weighted (2a) and T2-weighted (2b) axial images. In the axial image of the susceptibility-weighted sequence (2c), it is markedly hypointense, suggesting a calcified lesion. The coronal (2d) and axial (2e) images obtained after intravenous contrast administration show enhancement of the lesion. Additionally, the axial diffusion-weighted imaging (DWI) (2f) does not demonstrate diffusion restriction, probably due to its fibrotic/calcified component.",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates a well-defined, large, round, hyperintense lesion occupying the left frontal lobe. The lesion appears to have a cystic component with a smooth margin, suggesting a possible arachnoid cyst or other benign cystic lesion. There is no evident mass effect, midline shift, or surrounding edema. The adjacent brain parenchyma and ventricular system appear unremarkable. Further evaluation with contrast-enhanced imaging may be necessary to characterize the lesion further.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0277",
+    "image": "case0277_002.png",
+    "ground_truth": "Pre-surgical MRI: The lesion appears hypointense on both the T1-weighted (2a) and T2-weighted (2b) axial images. In the axial image of the susceptibility-weighted sequence (2c), it is markedly hypointense, suggesting a calcified lesion. The coronal (2d) and axial (2e) images obtained after intravenous contrast administration show enhancement of the lesion. Additionally, the axial diffusion-weighted imaging (DWI) (2f) does not demonstrate diffusion restriction, probably due to its fibrotic/calcified component.",
+    "prediction": "This axial T2-weighted MRI image of the brain demonstrates a large, well-defined, hyperintense lesion occupying the left lateral ventricle, extending into the third ventricle, with associated mass effect. There is compression of the adjacent cerebral parenchyma and midline shift to the right. The lesion appears heterogeneous, suggesting possible cystic components or necrosis. No acute hemorrhage is evident. The surrounding brain tissue shows mild edema. Further evaluation with contrast-enhanced imaging is recommended to characterize the lesion further.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0277",
+    "image": "case0277_003.png",
+    "ground_truth": "Pre-surgical MRI: The lesion appears hypointense on both the T1-weighted (2a) and T2-weighted (2b) axial images. In the axial image of the susceptibility-weighted sequence (2c), it is markedly hypointense, suggesting a calcified lesion. The coronal (2d) and axial (2e) images obtained after intravenous contrast administration show enhancement of the lesion. Additionally, the axial diffusion-weighted imaging (DWI) (2f) does not demonstrate diffusion restriction, probably due to its fibrotic/calcified component.",
+    "prediction": "This MRI image appears to be an axial view of the brain, likely obtained using a T2-weighted sequence. A large, well-defined, round lesion is observed in the suprasellar region, displacing adjacent structures. The lesion exhibits high signal intensity, suggesting it may contain fluid or cystic components. There is no apparent evidence of significant surrounding edema or mass effect on the adjacent brain parenchyma. Further evaluation with contrast-enhanced sequences and additional imaging planes would be necessary to characterize the lesion further and determine its nature, such as a possible craniopharyngioma or other suprasellar mass.",
+    "llm_score": 1
+  },
+  {
+    "case_id": "case0277",
+    "image": "case0277_004.png",
+    "ground_truth": "Pre-surgical MRI: The lesion appears hypointense on both the T1-weighted (2a) and T2-weighted (2b) axial images. In the axial image of the susceptibility-weighted sequence (2c), it is markedly hypointense, suggesting a calcified lesion. The coronal (2d) and axial (2e) images obtained after intravenous contrast administration show enhancement of the lesion. Additionally, the axial diffusion-weighted imaging (DWI) (2f) does not demonstrate diffusion restriction, probably due to its fibrotic/calcified component.",
+    "prediction": "The provided image appears to be an axial T2-weighted MRI scan of the brain. Notably, there is a large, well-defined, hyperintense lesion occupying the left temporal lobe, extending into the insular cortex. This mass effect results in midline shift and compression of adjacent structures, including the lateral ventricle. There is also evidence of surrounding edema, indicated by increased signal intensity in the perilesional brain tissue. No acute hemorrhage is apparent within the lesion. Further evaluation with contrast-enhanced imaging and clinical correlation is recommended to determine the nature of this abnormality.",
+    "llm_score": 1
+  }
+]
