@@ -3,150 +3,150 @@
     "case_id": "case0061",
     "ground_truth": "Central neurocytoma",
     "prediction": "Colloid cyst",
-    "llm_score": 1.0
+    "llm_score": "incorrect"
   },
   {
     "case_id": "case0246",
     "ground_truth": "Fahr\u2019s syndrome",
-    "prediction": "Wilson's disease.",
-    "llm_score": 1.0
+    "prediction": "Neurocysticercosis",
+    "llm_score": "incorrect"
   },
   {
     "case_id": "case0115",
     "ground_truth": "Pyogenic brain abscess with intraventricular rupture",
-    "prediction": "Brain abscess and ventriculitis due to Campylobacter rectus.",
-    "llm_score": 1.0
+    "prediction": "Brain abscess",
+    "llm_score": "incorrect"
   },
   {
     "case_id": "case0088",
     "ground_truth": "Diffuse large B-cell lymphoma in the dura  with disseminated disease",
-    "prediction": "Meningioma.",
-    "llm_score": 1.0
+    "prediction": "Frontal bone meningioma",
+    "llm_score": "incorrect"
   },
   {
     "case_id": "case0034",
     "ground_truth": "Epidermoid cyst",
-    "prediction": "Normal Pressure Hydrocephalus",
-    "llm_score": 1.0
+    "prediction": "Cerebellar atrophy",
+    "llm_score": "incorrect"
   },
   {
     "case_id": "case0005",
     "ground_truth": "Basal ganglia calcifications secondary to hypoparathyroidism",
-    "prediction": "Wilson's disease.",
-    "llm_score": 1.0
+    "prediction": "Tuberous Sclerosis Complex",
+    "llm_score": "incorrect"
   },
   {
     "case_id": "case0080",
     "ground_truth": "Methylmalonic acidaemia (MMA)",
-    "prediction": "Methylmalonic acidemia",
-    "llm_score": 1.0
+    "prediction": "Methylmalonic Acidemia",
+    "llm_score": "correct"
   },
   {
     "case_id": "case0150",
     "ground_truth": "Diabetic striatopathy",
-    "prediction": "Non-ketotic hyperglycemia-induced hemichorea-hemiballismus syndrome.",
-    "llm_score": 1.0
+    "prediction": "Diabetic ketoacidosis with cerebral edema",
+    "llm_score": "incorrect"
   },
   {
     "case_id": "case0127",
     "ground_truth": "Case of Wilson disease in a patient with giddiness",
-    "prediction": "Wilson's disease.",
-    "llm_score": 1.0
+    "prediction": "Wilson's Disease",
+    "llm_score": "correct"
   },
   {
     "case_id": "case0275",
     "ground_truth": "Septo-optic dysplasia plus syndrome",
-    "prediction": "Polymicrogyria",
-    "llm_score": 1.0
+    "prediction": "Septo-optic dysplasia",
+    "llm_score": "incorrect"
   },
   {
     "case_id": "case0274",
     "ground_truth": "Tuberculosis meningoencephalitis",
-    "prediction": "Herpes simplex encephalitis.",
-    "llm_score": 1.0
+    "prediction": "Tuberculous meningitis",
+    "llm_score": "correct"
   },
   {
     "case_id": "case0043",
     "ground_truth": "Hypomelanosis of Ito",
     "prediction": "Tuberous Sclerosis Complex",
-    "llm_score": 1.0
+    "llm_score": "incorrect"
   },
   {
     "case_id": "case0212",
     "ground_truth": "L-2-hydroxyglutaric aciduria",
-    "prediction": "Pelizaeus-Merzbacher disease.",
-    "llm_score": 1.0
+    "prediction": "Cerebral palsy",
+    "llm_score": "incorrect"
   },
   {
     "case_id": "case0113",
     "ground_truth": "FAMILIAL CEREBRAL CAVERNOUS MALFORMATION SYNDROME",
-    "prediction": "Cavernous angioma",
-    "llm_score": 1.0
+    "prediction": "Multiple Sclerosis",
+    "llm_score": "incorrect"
   },
   {
     "case_id": "case0106",
     "ground_truth": "Pontine tuberculoma",
-    "prediction": "Metastatic brain tumor",
-    "llm_score": 1.0
+    "prediction": "Brain abscess secondary to pulmonary tuberculosis",
+    "llm_score": "incorrect"
   },
   {
     "case_id": "case0208",
     "ground_truth": "Angiocentric glioma",
-    "prediction": "Focal cortical dysplasia.",
-    "llm_score": 1.0
+    "prediction": "Focal cortical dysplasia",
+    "llm_score": "incorrect"
   },
   {
     "case_id": "case0070",
     "ground_truth": "Hypertrophic olivary degeneration",
-    "prediction": "Olivopontocerebellar atrophy with palatal myoclonus.",
-    "llm_score": 1.0
+    "prediction": "Post-stroke palatal myoclonus",
+    "llm_score": "incorrect"
   },
   {
     "case_id": "case0012",
     "ground_truth": "Tumefactive demyelination.",
-    "prediction": "Tumefactive demyelination.",
-    "llm_score": 1.0
+    "prediction": "Cerebral sarcoidosis",
+    "llm_score": "incorrect"
   },
   {
     "case_id": "case0200",
     "ground_truth": "Chronic Lymphocytic",
     "prediction": "Acute disseminated encephalomyelitis (ADEM)",
-    "llm_score": 1.0
+    "llm_score": "incorrect"
   },
   {
     "case_id": "case0247",
     "ground_truth": "Tuberculoma involving cerebellum with resultant hydrocephalus",
-    "prediction": "Tuberculous meningitis",
-    "llm_score": 1.0
+    "prediction": "Neurocysticercosis",
+    "llm_score": "incorrect"
   },
   {
     "case_id": "case0255",
     "ground_truth": "Sinus pericranii",
-    "prediction": "Venous malformation",
-    "llm_score": 1.0
+    "prediction": "Cranial meningocele",
+    "llm_score": "incorrect"
   },
   {
     "case_id": "case0135",
     "ground_truth": "Chronic lymphocytic inflammation with pontine perivascular enhancement responsive to steroids",
-    "prediction": "Acute disseminated encephalomyelitis (ADEM).",
-    "llm_score": 1.0
+    "prediction": "Multiple Sclerosis",
+    "llm_score": "incorrect"
   },
   {
     "case_id": "case0018",
     "ground_truth": "Colloid cyst",
-    "prediction": "Colloid cyst",
-    "llm_score": 1.0
+    "prediction": "Normal MRI",
+    "llm_score": "incorrect"
   },
   {
     "case_id": "case0054",
     "ground_truth": "Transient splenial lesion of corpus callosum due to sudden withdrawal of anti-epileptic drugs.",
-    "prediction": "Wernicke encephalopathy.",
-    "llm_score": 1.0
+    "prediction": "Status epilepticus",
+    "llm_score": "incorrect"
   },
   {
     "case_id": "case0277",
     "ground_truth": "Psammomatoid juvenile ossifying fibroma",
-    "prediction": "Calcifying pseudotumor of the orbit.",
-    "llm_score": 1.0
+    "prediction": "Right orbital pseudotumor",
+    "llm_score": "incorrect"
   }
 ]

@@ -1,0 +1,319 @@
+[
+  {
+    "case_id": "case0061",
+    "prediction": "Colloid cyst",
+    "final_diagnosis": "Central neurocytoma",
+    "prompt": "Based on the clinical history: A 30-year-old patient presented to the emergency department with 3 days history of headache, nausea and vomiting. Memory loss and disorientation in time and space were reported, without other neurological manifestations. and the provided MRI images, provide your diagnosis for the disease. Consider all provided images. Output only the final diagnosis as a short phrase, with no explanation or extra text.",
+    "clinical_history": "A 30-year-old patient presented to the emergency department with 3 days history of headache, nausea and vomiting. Memory loss and disorientation in time and space were reported, without other neurological manifestations.",
+    "images": [
+      "case0061_001.png",
+      "case0061_002.png"
+    ]
+  },
+  {
+    "case_id": "case0246",
+    "prediction": "Neurocysticercosis",
+    "final_diagnosis": "Fahr\u2019s syndrome",
+    "prompt": "Based on the clinical history: A 27-year-old male had an incidental finding of intracranial calcifications on a CT head scan. The scan was performed to evaluate an enlarged external occipital protuberance discovered after shaving his head . According to the family, over the past two years, the patient has experienced forgetfulness with a reduced attention span. His academic performance at the university has progressively declined during this period, especially in the last few months, during which he has become more silent and less communicative . He reported no sensory-motor disturbances, cerebellar symptoms, seizures, or extrapyramidal features. Consequently, both CT and MRI scans of the head were requested. and the provided MRI images, provide your diagnosis for the disease. Consider all provided images. Output only the final diagnosis as a short phrase, with no explanation or extra text.",
+    "clinical_history": "A 27-year-old male had an incidental finding of intracranial calcifications on a CT head scan. The scan was performed to evaluate an enlarged external occipital protuberance discovered after shaving his head . According to the family, over the past two years, the patient has experienced forgetfulness with a reduced attention span. His academic performance at the university has progressively declined during this period, especially in the last few months, during which he has become more silent and less communicative . He reported no sensory-motor disturbances, cerebellar symptoms, seizures, or extrapyramidal features. Consequently, both CT and MRI scans of the head were requested.",
+    "images": [
+      "case0246_001.png"
+    ]
+  },
+  {
+    "case_id": "case0115",
+    "prediction": "Brain abscess",
+    "final_diagnosis": "Pyogenic brain abscess with intraventricular rupture",
+    "prompt": "Based on the clinical history: A 49-year-old man with a history of alcohol abuse presented to the Emergency Department with fever, headache and productive cough for the past 4 days. The day before his clinical conditions were aggravated by confusion and motor slowing. No relevant previous medical history. Laboratory analysis found leukocytosis and increased c-reactive-protein. and the provided MRI images, provide your diagnosis for the disease. Consider all provided images. Output only the final diagnosis as a short phrase, with no explanation or extra text.",
+    "clinical_history": "A 49-year-old man with a history of alcohol abuse presented to the Emergency Department with fever, headache and productive cough for the past 4 days. The day before his clinical conditions were aggravated by confusion and motor slowing. No relevant previous medical history. Laboratory analysis found leukocytosis and increased c-reactive-protein.",
+    "images": [
+      "case0115_007.png",
+      "case0115_001.png",
+      "case0115_002.png",
+      "case0115_003.png",
+      "case0115_004.png",
+      "case0115_005.png",
+      "case0115_006.png"
+    ]
+  },
+  {
+    "case_id": "case0088",
+    "prediction": "Frontal bone meningioma",
+    "final_diagnosis": "Diffuse large B-cell lymphoma in the dura  with disseminated disease",
+    "prompt": "Based on the clinical history: A 55-year-old male patient was admitted to the hospital due to painless progressive swelling over the right frontal area for the last one year. The overlying skin was healthy. The patient referred occasional mild headaches. He had no history of fever, weight loss or night sweats. and the provided MRI images, provide your diagnosis for the disease. Consider all provided images. Output only the final diagnosis as a short phrase, with no explanation or extra text.",
+    "clinical_history": "A 55-year-old male patient was admitted to the hospital due to painless progressive swelling over the right frontal area for the last one year. The overlying skin was healthy. The patient referred occasional mild headaches. He had no history of fever, weight loss or night sweats.",
+    "images": [
+      "case0088_004.png",
+      "case0088_001.png",
+      "case0088_002.png",
+      "case0088_003.png"
+    ]
+  },
+  {
+    "case_id": "case0034",
+    "prediction": "Cerebellar atrophy",
+    "final_diagnosis": "Epidermoid cyst",
+    "prompt": "Based on the clinical history: The patient presented with headache, generalized weakness, abnormal gait and loss of balance which gradually developed over the period of the past 2 years. There was no sensorymotor deficit. and the provided MRI images, provide your diagnosis for the disease. Consider all provided images. Output only the final diagnosis as a short phrase, with no explanation or extra text.",
+    "clinical_history": "The patient presented with headache, generalized weakness, abnormal gait and loss of balance which gradually developed over the period of the past 2 years. There was no sensorymotor deficit.",
+    "images": [
+      "case0034_003.png",
+      "case0034_004.png",
+      "case0034_001.png",
+      "case0034_002.png",
+      "case0034_005.png"
+    ]
+  },
+  {
+    "case_id": "case0005",
+    "prediction": "Tuberous Sclerosis Complex",
+    "final_diagnosis": "Basal ganglia calcifications secondary to hypoparathyroidism",
+    "prompt": "Based on the clinical history: A 15-year-old male patient with history of seizures and limb spasm presented at our hospital. and the provided MRI images, provide your diagnosis for the disease. Consider all provided images. Output only the final diagnosis as a short phrase, with no explanation or extra text.",
+    "clinical_history": "A 15-year-old male patient with history of seizures and limb spasm presented at our hospital.",
+    "images": [
+      "case0005_003.png",
+      "case0005_001.png",
+      "case0005_002.png"
+    ]
+  },
+  {
+    "case_id": "case0080",
+    "prediction": "Methylmalonic Acidemia",
+    "final_diagnosis": "Methylmalonic acidaemia (MMA)",
+    "prompt": "Based on the clinical history: A six-year-old male child presented to the emergency room complaining about weakness, lethargy, abnormal respiration and episodes of vomiting together with dizziness one month before. The parents admitted to developmental delay, eating disorders, seizures, iron-deficiency-anaemia under treatment, and surgical excision of adenoids 2 months ago. Workup revealed elevated ammonia and methylmalonyc acid levels and low vitamin-B12 levels in the blood. and the provided MRI images, provide your diagnosis for the disease. Consider all provided images. Output only the final diagnosis as a short phrase, with no explanation or extra text.",
+    "clinical_history": "A six-year-old male child presented to the emergency room complaining about weakness, lethargy, abnormal respiration and episodes of vomiting together with dizziness one month before. The parents admitted to developmental delay, eating disorders, seizures, iron-deficiency-anaemia under treatment, and surgical excision of adenoids 2 months ago. Workup revealed elevated ammonia and methylmalonyc acid levels and low vitamin-B12 levels in the blood.",
+    "images": [
+      "case0080_006.png",
+      "case0080_002.png",
+      "case0080_003.png",
+      "case0080_004.png",
+      "case0080_005.png",
+      "case0080_001.png"
+    ]
+  },
+  {
+    "case_id": "case0150",
+    "prediction": "Diabetic ketoacidosis with cerebral edema",
+    "final_diagnosis": "Diabetic striatopathy",
+    "prompt": "Based on the clinical history: A 66-year-old female with type II diabetes mellitus since 25 years on irregular treatment, presenting with complaint of random, uncontrollable, involuntary, jerking movements of left upper limb and left lower-limb , her random blood sugar was found 580 mg/dl, HbA1c -17.46% and urine ketones ++. and the provided MRI images, provide your diagnosis for the disease. Consider all provided images. Output only the final diagnosis as a short phrase, with no explanation or extra text.",
+    "clinical_history": "A 66-year-old female with type II diabetes mellitus since 25 years on irregular treatment, presenting with complaint of random, uncontrollable, involuntary, jerking movements of left upper limb and left lower-limb , her random blood sugar was found 580 mg/dl, HbA1c -17.46% and urine ketones ++.",
+    "images": [
+      "case0150_001.png",
+      "case0150_002.png",
+      "case0150_003.png",
+      "case0150_004.png"
+    ]
+  },
+  {
+    "case_id": "case0127",
+    "prediction": "Wilson's Disease",
+    "final_diagnosis": "Case of Wilson disease in a patient with giddiness",
+    "prompt": "Based on the clinical history: 19-year-old girl presented with mild tremors of hand in the last two months and giddiness, vomiting in the past two days. There was no significant history of similar complaints or other major illnesses in the patient's family. Neurologic examination showed subtle extra pyramidal symptoms and hence was referred for brain MRI. and the provided MRI images, provide your diagnosis for the disease. Consider all provided images. Output only the final diagnosis as a short phrase, with no explanation or extra text.",
+    "clinical_history": "19-year-old girl presented with mild tremors of hand in the last two months and giddiness, vomiting in the past two days. There was no significant history of similar complaints or other major illnesses in the patient's family. Neurologic examination showed subtle extra pyramidal symptoms and hence was referred for brain MRI.",
+    "images": [
+      "case0127_001.png",
+      "case0127_002.png",
+      "case0127_003.png"
+    ]
+  },
+  {
+    "case_id": "case0275",
+    "prediction": "Septo-optic dysplasia",
+    "final_diagnosis": "Septo-optic dysplasia plus syndrome",
+    "prompt": "Based on the clinical history: The patient is a 5-year-old male with a history of medicated panhypopituitarism and psychomotor development delay. Ophthalmologic examination revealed an absence of light perception and a pale optic disc on the left side. and the provided MRI images, provide your diagnosis for the disease. Consider all provided images. Output only the final diagnosis as a short phrase, with no explanation or extra text.",
+    "clinical_history": "The patient is a 5-year-old male with a history of medicated panhypopituitarism and psychomotor development delay. Ophthalmologic examination revealed an absence of light perception and a pale optic disc on the left side.",
+    "images": [
+      "case0275_001.png",
+      "case0275_002.png"
+    ]
+  },
+  {
+    "case_id": "case0274",
+    "prediction": "Tuberculous meningitis",
+    "final_diagnosis": "Tuberculosis meningoencephalitis",
+    "prompt": "Based on the clinical history: A 42-year-old female with a history of chronic cough and night sweats presented to the emergency department with a 2-week history of headache, fever, confusion, and altered mental status. The patient had no significant past medical history or known contact with tuberculosis. On examination, she was febrile (38.5\u00b0C), disoriented, and had nuchal rigidity. No focal neurological deficits were noted. and the provided MRI images, provide your diagnosis for the disease. Consider all provided images. Output only the final diagnosis as a short phrase, with no explanation or extra text.",
+    "clinical_history": "A 42-year-old female with a history of chronic cough and night sweats presented to the emergency department with a 2-week history of headache, fever, confusion, and altered mental status. The patient had no significant past medical history or known contact with tuberculosis. On examination, she was febrile (38.5\u00b0C), disoriented, and had nuchal rigidity. No focal neurological deficits were noted.",
+    "images": [
+      "case0274_001.png",
+      "case0274_002.png"
+    ]
+  },
+  {
+    "case_id": "case0043",
+    "prediction": "Tuberous Sclerosis Complex",
+    "final_diagnosis": "Hypomelanosis of Ito",
+    "prompt": "Based on the clinical history: A 6-year-old boy came for MRI with complaints of delayed development, hypotonia, seizures. Birth history was normal and he was born to non-consanguineous parents. His younger sibling was normal. On clinical examination, the patient had multiple hypopigmented and hyperpigmented patches on limbs, back and chest. and the provided MRI images, provide your diagnosis for the disease. Consider all provided images. Output only the final diagnosis as a short phrase, with no explanation or extra text.",
+    "clinical_history": "A 6-year-old boy came for MRI with complaints of delayed development, hypotonia, seizures. Birth history was normal and he was born to non-consanguineous parents. His younger sibling was normal. On clinical examination, the patient had multiple hypopigmented and hyperpigmented patches on limbs, back and chest.",
+    "images": [
+      "case0043_001.png",
+      "case0043_002.png",
+      "case0043_005.png",
+      "case0043_003.png",
+      "case0043_004.png"
+    ]
+  },
+  {
+    "case_id": "case0212",
+    "prediction": "Cerebral palsy",
+    "final_diagnosis": "L-2-hydroxyglutaric aciduria",
+    "prompt": "Based on the clinical history: A 3-year-old boy presented with a history of development delay, showing difficulties in the acquisition of words and sentence construction, and delayed capacity to walk without support. Parents concerns first began at 2 months of age because of hypotonia. Physical examination showed brachycephaly, ataxic gait and dysmetria. and the provided MRI images, provide your diagnosis for the disease. Consider all provided images. Output only the final diagnosis as a short phrase, with no explanation or extra text.",
+    "clinical_history": "A 3-year-old boy presented with a history of development delay, showing difficulties in the acquisition of words and sentence construction, and delayed capacity to walk without support. Parents concerns first began at 2 months of age because of hypotonia. Physical examination showed brachycephaly, ataxic gait and dysmetria.",
+    "images": [
+      "case0212_001.png",
+      "case0212_002.png",
+      "case0212_003.png",
+      "case0212_004.png"
+    ]
+  },
+  {
+    "case_id": "case0113",
+    "prediction": "Multiple Sclerosis",
+    "final_diagnosis": "FAMILIAL CEREBRAL CAVERNOUS MALFORMATION SYNDROME",
+    "prompt": "Based on the clinical history: A 44-year-old female presented to the Neurology clinic complaining of chronic headache. She had no other complaint. There was no history of any associated aura or nausea. Patient refused for a Computed tomography of brain due to radiation hazard and underwent a non contrast MRI of brain. and the provided MRI images, provide your diagnosis for the disease. Consider all provided images. Output only the final diagnosis as a short phrase, with no explanation or extra text.",
+    "clinical_history": "A 44-year-old female presented to the Neurology clinic complaining of chronic headache. She had no other complaint. There was no history of any associated aura or nausea. Patient refused for a Computed tomography of brain due to radiation hazard and underwent a non contrast MRI of brain.",
+    "images": [
+      "case0113_001.png",
+      "case0113_002.png",
+      "case0113_003.png"
+    ]
+  },
+  {
+    "case_id": "case0106",
+    "prediction": "Brain abscess secondary to pulmonary tuberculosis",
+    "final_diagnosis": "Pontine tuberculoma",
+    "prompt": "Based on the clinical history: A 32-year-old male patient presented with complaints of sudden loss of consciousness and right-sided weakness for the past 2 days. The patient had chronic cough with expectoration, low-grade fever and weight loss for the past 6 months. and the provided MRI images, provide your diagnosis for the disease. Consider all provided images. Output only the final diagnosis as a short phrase, with no explanation or extra text.",
+    "clinical_history": "A 32-year-old male patient presented with complaints of sudden loss of consciousness and right-sided weakness for the past 2 days. The patient had chronic cough with expectoration, low-grade fever and weight loss for the past 6 months.",
+    "images": [
+      "case0106_003.png",
+      "case0106_004.png",
+      "case0106_001.png",
+      "case0106_002.png"
+    ]
+  },
+  {
+    "case_id": "case0208",
+    "prediction": "Focal cortical dysplasia",
+    "final_diagnosis": "Angiocentric glioma",
+    "prompt": "Based on the clinical history: A 15-year-old male with a history of refractory epilepsy for the last three years. During the previous weeks, the patient had a gradual clinical worsening with frequent and prolonged seizures. The patient had no other relevant clinical history. The patient was submitted to an electroencephalogram (EEG) that revealed interictal and sporadic paroxysmal activity with a right superior frontal location. and the provided MRI images, provide your diagnosis for the disease. Consider all provided images. Output only the final diagnosis as a short phrase, with no explanation or extra text.",
+    "clinical_history": "A 15-year-old male with a history of refractory epilepsy for the last three years. During the previous weeks, the patient had a gradual clinical worsening with frequent and prolonged seizures. The patient had no other relevant clinical history. The patient was submitted to an electroencephalogram (EEG) that revealed interictal and sporadic paroxysmal activity with a right superior frontal location.",
+    "images": [
+      "case0208_001.png"
+    ]
+  },
+  {
+    "case_id": "case0070",
+    "prediction": "Post-stroke palatal myoclonus",
+    "final_diagnosis": "Hypertrophic olivary degeneration",
+    "prompt": "Based on the clinical history: One month after having run out of his anti-hypertensive medication, a 61-year-old male patient was diagnosed in the emergency room as having had a stroke. Nine months after the stroke, he developed a synchronous tremor in his palate. and the provided MRI images, provide your diagnosis for the disease. Consider all provided images. Output only the final diagnosis as a short phrase, with no explanation or extra text.",
+    "clinical_history": "One month after having run out of his anti-hypertensive medication, a 61-year-old male patient was diagnosed in the emergency room as having had a stroke. Nine months after the stroke, he developed a synchronous tremor in his palate.",
+    "images": [
+      "case0070_001.png",
+      "case0070_002.png",
+      "case0070_003.png",
+      "case0070_011.png",
+      "case0070_008.png",
+      "case0070_009.png",
+      "case0070_010.png",
+      "case0070_004.png",
+      "case0070_005.png",
+      "case0070_006.png",
+      "case0070_007.png"
+    ]
+  },
+  {
+    "case_id": "case0012",
+    "prediction": "Cerebral sarcoidosis",
+    "final_diagnosis": "Tumefactive demyelination.",
+    "prompt": "Based on the clinical history: A 44-year-old gentleman, a known case of pulmonary sarcoidosis since 10 years, came to the ER department following an episode of seizure along with sudden onset weakness on the right side of the face and right lower limb. Clinically, vasculitis-induced stroke or a glioma were suspected. and the provided MRI images, provide your diagnosis for the disease. Consider all provided images. Output only the final diagnosis as a short phrase, with no explanation or extra text.",
+    "clinical_history": "A 44-year-old gentleman, a known case of pulmonary sarcoidosis since 10 years, came to the ER department following an episode of seizure along with sudden onset weakness on the right side of the face and right lower limb. Clinically, vasculitis-induced stroke or a glioma were suspected.",
+    "images": [
+      "case0012_003.png",
+      "case0012_004.png",
+      "case0012_005.png",
+      "case0012_006.png",
+      "case0012_001.png",
+      "case0012_002.png"
+    ]
+  },
+  {
+    "case_id": "case0200",
+    "prediction": "Acute disseminated encephalomyelitis (ADEM)",
+    "final_diagnosis": "Chronic Lymphocytic",
+    "prompt": "Based on the clinical history: A 24-year-old man presented to our hospital with an established subacute dizziness with gait instability, ataxia, diplopia, dysarthria, dysphagia, slurred speech and quadriplegia. Cerebrospinal fluid analysis revealed elevated white blood cell count with lymphocytes. Extensive laboratory evaluation of serum and CSF biomarkers for autoimmune and infectious causes werd\u00a0negative. and the provided MRI images, provide your diagnosis for the disease. Consider all provided images. Output only the final diagnosis as a short phrase, with no explanation or extra text.",
+    "clinical_history": "A 24-year-old man presented to our hospital with an established subacute dizziness with gait instability, ataxia, diplopia, dysarthria, dysphagia, slurred speech and quadriplegia. Cerebrospinal fluid analysis revealed elevated white blood cell count with lymphocytes. Extensive laboratory evaluation of serum and CSF biomarkers for autoimmune and infectious causes werd\u00a0negative.",
+    "images": [
+      "case0200_001.png"
+    ]
+  },
+  {
+    "case_id": "case0247",
+    "prediction": "Neurocysticercosis",
+    "final_diagnosis": "Tuberculoma involving cerebellum with resultant hydrocephalus",
+    "prompt": "Based on the clinical history: A 7-year-old female patient presents with regression of motor developmental milestones. The patient had a cough, low-grade fever and weight loss for the past 6 months. and the provided MRI images, provide your diagnosis for the disease. Consider all provided images. Output only the final diagnosis as a short phrase, with no explanation or extra text.",
+    "clinical_history": "A 7-year-old female patient presents with regression of motor developmental milestones. The patient had a cough, low-grade fever and weight loss for the past 6 months.",
+    "images": [
+      "case0247_001.png"
+    ]
+  },
+  {
+    "case_id": "case0255",
+    "prediction": "Cranial meningocele",
+    "final_diagnosis": "Sinus pericranii",
+    "prompt": "Based on the clinical history: A 5-year-old boy presented to the paediatric clinic with a parietal cranial soft tissue mass present since birth. The mass had become progressively sore and increased in size. The patient had no significant medical history, other complaints, or neurological deficits. and the provided MRI images, provide your diagnosis for the disease. Consider all provided images. Output only the final diagnosis as a short phrase, with no explanation or extra text.",
+    "clinical_history": "A 5-year-old boy presented to the paediatric clinic with a parietal cranial soft tissue mass present since birth. The mass had become progressively sore and increased in size. The patient had no significant medical history, other complaints, or neurological deficits.",
+    "images": [
+      "case0255_001.png",
+      "case0255_002.png",
+      "case0255_003.png"
+    ]
+  },
+  {
+    "case_id": "case0135",
+    "prediction": "Multiple Sclerosis",
+    "final_diagnosis": "Chronic lymphocytic inflammation with pontine perivascular enhancement responsive to steroids",
+    "prompt": "Based on the clinical history: A 71-year-old male patient complained of gait ataxia, loss of muscle strength, recurrent falls, tremor in both hands and a weight loss of 10 kg over the last 3 months. The patient came to the emergency room after an acute episode of dysarthria and tingling in the face on the left side. and the provided MRI images, provide your diagnosis for the disease. Consider all provided images. Output only the final diagnosis as a short phrase, with no explanation or extra text.",
+    "clinical_history": "A 71-year-old male patient complained of gait ataxia, loss of muscle strength, recurrent falls, tremor in both hands and a weight loss of 10 kg over the last 3 months. The patient came to the emergency room after an acute episode of dysarthria and tingling in the face on the left side.",
+    "images": [
+      "case0135_001.png",
+      "case0135_005.png",
+      "case0135_006.png",
+      "case0135_002.png",
+      "case0135_003.png",
+      "case0135_004.png"
+    ]
+  },
+  {
+    "case_id": "case0018",
+    "prediction": "Normal MRI",
+    "final_diagnosis": "Colloid cyst",
+    "prompt": "Based on the clinical history: A 56-years-old man consulted his General Practitioner with a history of increased feeling of cranial pressure and headache for two days. The patient was sent to the local Casualty Department. In clinical examination nothing abnormal was detected. All laboratory tests were normal. A cranial CT was performed, followed by cranial MRI. and the provided MRI images, provide your diagnosis for the disease. Consider all provided images. Output only the final diagnosis as a short phrase, with no explanation or extra text.",
+    "clinical_history": "A 56-years-old man consulted his General Practitioner with a history of increased feeling of cranial pressure and headache for two days. The patient was sent to the local Casualty Department. In clinical examination nothing abnormal was detected. All laboratory tests were normal. A cranial CT was performed, followed by cranial MRI.",
+    "images": [
+      "case0018_003.png",
+      "case0018_001.png",
+      "case0018_002.png"
+    ]
+  },
+  {
+    "case_id": "case0054",
+    "prediction": "Status epilepticus",
+    "final_diagnosis": "Transient splenial lesion of corpus callosum due to sudden withdrawal of anti-epileptic drugs.",
+    "prompt": "Based on the clinical history: A 17-year-old female patient with a known seizure disorder presented to the casualty with tonic-clonic seizures, in an unconscious state, and loss of both upper and lower limb reflexes. She was previously on anti-epileptics, which were stopped for 2 months for a gummatous inflammation. and the provided MRI images, provide your diagnosis for the disease. Consider all provided images. Output only the final diagnosis as a short phrase, with no explanation or extra text.",
+    "clinical_history": "A 17-year-old female patient with a known seizure disorder presented to the casualty with tonic-clonic seizures, in an unconscious state, and loss of both upper and lower limb reflexes. She was previously on anti-epileptics, which were stopped for 2 months for a gummatous inflammation.",
+    "images": [
+      "case0054_001.png"
+    ]
+  },
+  {
+    "case_id": "case0277",
+    "prediction": "Right orbital pseudotumor",
+    "final_diagnosis": "Psammomatoid juvenile ossifying fibroma",
+    "prompt": "Based on the clinical history: A 10-year-old patient with a personal history of strabismus surgery at the age of 2 years, presented with progressive limitation\u00a0of upward eye movements and proptosis of the right eye. She does not report diplopia, blurred vision or pain. and the provided MRI images, provide your diagnosis for the disease. Consider all provided images. Output only the final diagnosis as a short phrase, with no explanation or extra text.",
+    "clinical_history": "A 10-year-old patient with a personal history of strabismus surgery at the age of 2 years, presented with progressive limitation\u00a0of upward eye movements and proptosis of the right eye. She does not report diplopia, blurred vision or pain.",
+    "images": [
+      "case0277_001.png",
+      "case0277_002.png",
+      "case0277_003.png",
+      "case0277_004.png"
+    ]
+  }
+]
